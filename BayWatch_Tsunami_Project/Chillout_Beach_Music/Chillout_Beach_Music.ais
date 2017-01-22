@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StateXML rev="1.3.1.0">
+    <subset name="Client" type="">
+        <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAHBNUQQAAAAAYGlZBAAAAACgW1oEAAAAAGjxUwAAAAAAPhSJvfd/AABMXlIEAAAAAKBdUgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAWgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAA8HqcAwAAAAAFAAAABAAAAMByWAQAAAAA]]></state>
+        <node name="Conductor" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAj1UwAAAAAAYGlZBAAAAADQXVoEAAAAAAj1UwAAAAAAPhSJvfd/AACMWlIEAAAAAOBZUgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAWgQAAAAABQAAAAAAAAAAAAAAAAAAAA8AAAAAAAAACPVTAAAAAAAFAAAABAAAABBzWAQAAAAA]]></state>
+            <state name="Signature" type="4" size="118"><![CDATA[AAAAAAAAAAAAAAAACwAAAAMAAAADAAAAAAAAAEgAAABMAAAAUAAAAFQAAABYAAAAXAAAAGAAAABkAAAAaAAAAGwAAABwAAAAMi8yADIvNAAzLzQANC80ADUvNAA3LzQANS84ADYvOAA3LzgAOS84ADEyLzgAPg==]]></state>
+            <state name="SnapGridMode" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAAIPBTAAAAAAAAAAAAAAAAAA8AAAAAAABPbgAAAAAAAAAwz1oEAAAAAJSNjXMAAAAAGwAAAAAAAFVuYXNzaWduZWQAWAQAAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGlZBAAAAACAXloEAAAAAKDuUwAAAAAA]]></state>
+            <state name="Swing" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAACAPwAAAAAlLjBmJSUAAAAAAAAOAAAAEQAAAEDhCqL8fwAAIwA8AA==]]></state>
+            <state name="ScaleType" type="4" size="47"><![CDATA[AAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAACQAAAApAAAATWFqLgBNaW4uAAA=]]></state>
+            <state name="ScaleRoot" type="4" size="106"><![CDATA[AAAAAAAAAAAAAQAADAAAAAAAAAAAAAAAAAAAAEwAAABOAAAAUQAAAFMAAABWAAAAWAAAAFoAAABdAAAAXwAAAGIAAABkAAAAZwAAAEMARGIARABFYgBFAEYAR2IARwBBYgBBAEJiAEIAPg==]]></state>
+            <state name="Tempo" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAACQPgAAkD4AAJA+AACQPgAA8EEAAK9DAACAPwAAAAAlLjBmAHJpZE1vZGUAAAAAAAYAAABTd2luZwAAAAAAAA==]]></state>
+        </node>
+        <node name="HyperControlFactory" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAHBNUQQAAAAAgNRGBAAAAADga1kEAAAAACjvUwAAAAAAPhSJvfd/AACchVEEAAAAAPCEUQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAWAQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAKO9TAAAAAAAFAAAABAAAAKBzWAQAAAAA]]></state>
+        </node>
+        <node name="MidiLearn" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAKBbWgQAAAAAYGlZBAAAAABQ7FEEAAAAAMjuUwAAAAAAPhSJvfd/AAAcb1EEAAAAAHBuUQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAWgQAAAAAAQAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAyO5TAAAAAAAFAAAABAAAAFB2WAQAAAAA]]></state>
+        </node>
+        <node name="Instruments" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAIDURgQAAAAAQINSBAAAAABgOV0EAAAAAAj2UwAAAAAAPhSJvfd/AACcCF4EAAAAAPAHXgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAWgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAACPZTAAAAAAAFAAAABAAAADBeWAQAAAAA]]></state>
+            <state name="FamilyColors" type="4" size="29"><![CDATA[AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=]]></state>
+            <node name="Limiter" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAAAwL4cEAAAAAIjuUwAAAAAAPhSJvfd/AABM5YYEAAAAAKDkhgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAABwAAAAEAAAAAAAAAAAAAAA8AAAAAAAAAiO5TAAAAAAAFAAAABAAAANAfXwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="8"><![CDATA[TGltaXRlcgA=]]></state>
+                <state name="InstrumentXml" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="49"><![CDATA[L3ZmczovVUkvQXBwU2tpbi9TY2hlbWUvSW1hZ2VzL0FkZEluc3RydW1lbnQucG5nAA==]]></state>
+                <state name="DisplayName" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DefaultDisplayName" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="5"><![CDATA[Z3JheQA=]]></state>
+                <state name="Attributes" type="4" size="29"><![CDATA[AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Limiter">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAADAvhwQAAAAAMKx+BAAAAACAq34EAAAAAMjjUwAAAAAAvvklovx/AADczYYEAAAAADDNhgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAaONTAAAAAAAFAAAABAAAAPA1hwQAAAAA]]></state>
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="Threshold" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAZmZ2P2Zmdj9mZnY/ZmZ2PwAAIMIAAAAAAAAAAAAAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="SoftKnee" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAUI0XPVCNFz1QjRc9UI0XPc3MzD3NzKBBAAAAAAAAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="MakeUpGain" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBCAAAAAAAAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Release" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAmpkZPpqZGT6amRk+mpkZPm8Sgzq+/0dDAAAAAAAAAAAlLjBmIG1zAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Activation" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAAYOiGBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB+BAAAAAAAeIAEAAAAAIJZJKL8fwAAJwAAAAAAAFVuYXNzaWduZWQA////////QG6FBAAAAAAwL4cEAAAAAMDqUwAAAAAAAAAAAAAAAABg6IYEAAAAANDlUwAAAAAA]]></state>
+                </node>
+            </node>
+            <node name="Preview" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAACwJIYEAAAAAGjuUwAAAAAAPhSJvfd/AADsi4kEAAAAAECLiQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAFgAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAaO5TAAAAAAAFAAAABAAAAHBBhwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="6"><![CDATA[SHlwZXIA]]></state>
+                <state name="InstrumentXml" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="ContentPath" type="7" size="40"><![CDATA[dmZzOi9JbnN0cnVtZW50L0h5cGVyL0NvbnRlbnQvSWduaXRlVjEvAA==]]></state>
+                <state name="PatchName" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Icon" type="7" size="46"><![CDATA[dmZzOi8vSW5zdHJ1bWVudC9QYXRjaGVzLzAyIEJhc3Nlcy9CYXNzZXMucG5nAA==]]></state>
+                <state name="DisplayName" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                <state name="DefaultDisplayName" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="8"><![CDATA[IzAwNjQ0QwA=]]></state>
+                <state name="Attributes" type="4" size="282"><![CDATA[AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAADwAAABUAAAAfAAAAKgAAADRAAAA7gAAAPkAAAAKAQAAQ29udGVudFNvdXJjZT1GYWN0b3J5IDEARGVmYXVsdENob3JkUHJvY2Vzc29yU2V0dGluZz1CYWxsYWQuY3BzAERlZmF1bHRDaG9yZFByb2Nlc3NvclNldHRpbmdDYXRlZ29yeT1CYXNzZXMARGVmYXVsdFBocmFzZT1FbGVjdHJpYyAxMDcgQWNpZCBKYXp6LnBwcwBEZWZhdWx0UGhyYXNlQ2F0ZWdvcnk9QmFzc2VzAERydW09ZmFsc2UATWFudWZhY3R1cmVyPUFJUgBQYXRjaE51bWJlcj0xMwDX]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Hyper">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAALAkhgQAAAAAcPOMBAAAAADA8owEAAAAAMjjUwAAAAAAbkQGo/x/AABcuIwEAAAAALC3jAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAABy0/x/AAAAAAAAAAAAAA8AAAAAAAAAaONTAAAAAAAFAAAABAAAABBFhwQAAAAA]]></state>
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="Param0" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAiv1RP4r9UT+K/VE/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param3" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param4" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param5" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACYPgAAmD4AAJg+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                </node>
+            </node>
+            <node name="Metronome" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAADwcIcEAAAAANjjUwAAAAAAPhSJvfd/AACsmJgEAAAAAACYmAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAAAAAPx/AAAAAAAAAAAAAA8AAAAAAAAA2ONTAAAAAAAFAAAABAAAAFBLhwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="10"><![CDATA[TWV0cm9ub21lAA==]]></state>
+                <state name="InstrumentXml" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="49"><![CDATA[L3ZmczovVUkvQXBwU2tpbi9TY2hlbWUvSW1hZ2VzL0FkZEluc3RydW1lbnQucG5nAA==]]></state>
+                <state name="DisplayName" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DefaultDisplayName" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="5"><![CDATA[Z3JheQA=]]></state>
+                <state name="Attributes" type="4" size="29"><![CDATA[AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Metronome">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAPBwhwQAAAAAILqFBAAAAABwuYUEAAAAAPjYUwAAAAAAvvklovx/AACMi5gEAAAAAOCKmAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAmNhTAAAAAAAFAAAABAAAAHBOhwQAAAAA]]></state>
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="On" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAABvT2ZmAL33fwAAAAAAAAAAAAAPAAAAAAAAAOComAQAAABPbgB0Y2gAAAAAAAAAAAAAAAUAAAAAAAAADwAAAAAAAFVuYXNzaWduZWQAAAAAAAAA/v////////8AHpcEAAAAAASvVb33fwAAAAAAAAAAAAAPAAAAAAAAAOComAQAAAAA]]></state>
+                    <state name="Level" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmICUlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Decay" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmICUlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Pitch" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmICUlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="AccentPitch" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmICUlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Accent" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAzcxMPs3MTD7NzEw+zcxMPgAAAAAAAMhCAAAAAAAAAAAlLjJmICUlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                </node>
+            </node>
+            <node name="{17e67777-c73f-4841-8fe9-d9ee23e57215}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAAAQ6KQEAAAAAIDyUwAAAAAAPhSJvfd/AAC8eZkEAAAAABB5mQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAmQQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAgPJTAAAAAAAFAAAABAAAAKBchwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="7"><![CDATA[UmV2ZXJiAA==]]></state>
+                <state name="InstrumentXml" type="7" size="45"><![CDATA[dmZzOi9FZmZlY3RzL1ByZXNldHMvUmV2ZXJiLy8wMDEgQ2hhbWJlci54bWwA]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DisplayName" type="7" size="8"><![CDATA[Q2hhbWJlcgA=]]></state>
+                <state name="DefaultDisplayName" type="7" size="8"><![CDATA[Q2hhbWJlcgA=]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Attributes" type="4" size="55"><![CDATA[AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAACAAAABJbnN0cnVtZW50VHlwZT1FZmZlY3QAAA==]]></state>
+                <state name="InstrumentType" type="7" size="7"><![CDATA[RWZmZWN0AA==]]></state>
+                <node name="DSP" type="Reverb">
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="PreDelay" type="23" size="23"><![CDATA[hUKhPQAAAAAAAAAAAwAAADJtcwAAAAA=]]></state>
+                    <state name="ERGain" type="23" size="23"><![CDATA[bmgRPwAAAD8AAAAAAwAAADU3JQAAAAA=]]></state>
+                    <state name="RoomSize" type="23" size="23"><![CDATA[bWgRPwAAgD8AAAAAAwAAADU3JQAAAAA=]]></state>
+                    <state name="RTimeMain" type="23" size="24"><![CDATA[HwYBPwAAAD8AAAAABAAAADEuOXMAAAAA]]></state>
+                    <state name="RTimeHigh" type="23" size="24"><![CDATA[QgrXPgAAAD8AAAAABAAAAC0xNiUAAAAA]]></state>
+                    <state name="RTFreqHigh" type="23" size="27"><![CDATA[/VE4PgAAAD8AAAAABwAAADMuMDNrSHoAAAAA]]></state>
+                    <state name="HighCut" type="23" size="27"><![CDATA[ZQQlPgAAQD8AAAAABwAAADEuNjJrSHoAawBI]]></state>
+                    <state name="Mix" type="23" size="24"><![CDATA[AACAPwAAAD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="InWidth" type="23" size="25"><![CDATA[AACAPwAAAD8AAAAABQAAACsxMDAlAAAAaw==]]></state>
+                    <state name="ERType" type="4" size="261"><![CDATA[AAAAAAAAAAAAAQAAEAAAAAAAAAAGAAAAAAAAAFwAAABgAAAAZgAAAGsAAABwAAAAfgAAAI0AAACbAAAAqAAAALUAAADDAAAA0AAAAN0AAADkAAAA8AAAAPoAAABPZmYAQm9vdGgAQ2x1YgBSb29tAFNtYWxsIENoYW1iZXIATWVkaXVtIENoYW1iZXIATGFyZ2UgQ2hhbWJlcgBTbWFsbCBTdHVkaW8ATGFyZ2UgU3R1ZGlvAFNjb3JpbmcgU3RhZ2UAUGhpbGhhcm1vbmljAENvbmNlcnQgSGFsbABDaHVyY2gAT3BlcmEgSG91c2UAVmludGFnZSAxAFZpbnRhZ2UgMgDN]]></state>
+                    <state name="ERSpread" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAzc3N]]></state>
+                    <state name="ReverbDelay" type="23" size="23"><![CDATA[hUIhPgAAAAAAAAAAAwAAADZtcwAAAAA=]]></state>
+                    <state name="Density" type="23" size="23"><![CDATA[sNdrPwAAgD8AAAAAAwAAADkyJQAAAAA=]]></state>
+                    <state name="Ambience" type="23" size="23"><![CDATA[EIdDPwAAAAAAAAAAAwAAADc2JQAAAAA=]]></state>
+                    <state name="RTimeLow" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                    <state name="RTFreqLow" type="23" size="25"><![CDATA[AAAAPwAAAD8AAAAABQAAADIwMEh6AM3NzQ==]]></state>
+                    <state name="OutWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                </node>
+            </node>
+            <node name="{8fc92764-1f05-4b68-87dc-5894f03fe617}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAADA6aQEAAAAAIDyUwAAAAAAPhSJvfd/AAA8cpkEAAAAAJBxmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQASQYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAgPJTAAAAAAAFAAAABAAAAMBehwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="7"><![CDATA[UmV2ZXJiAA==]]></state>
+                <state name="InstrumentXml" type="7" size="42"><![CDATA[dmZzOi9FZmZlY3RzL1ByZXNldHMvUmV2ZXJiLy8wMDIgUm9vbS54bWwA]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DisplayName" type="7" size="5"><![CDATA[Um9vbQA=]]></state>
+                <state name="DefaultDisplayName" type="7" size="5"><![CDATA[Um9vbQA=]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Attributes" type="4" size="55"><![CDATA[AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAACAAAABJbnN0cnVtZW50VHlwZT1FZmZlY3QAAA==]]></state>
+                <state name="InstrumentType" type="7" size="7"><![CDATA[RWZmZWN0AA==]]></state>
+                <node name="DSP" type="Reverb">
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="PreDelay" type="23" size="23"><![CDATA[AAAAAAAAAAAAAAAAAwAAADBtcwDZfwA=]]></state>
+                    <state name="ERGain" type="23" size="23"><![CDATA[W5FtPgAAAD8AAAAAAwAAADIzJQAAAAA=]]></state>
+                    <state name="RoomSize" type="23" size="23"><![CDATA[XuXQPgAAgD8AAAAAAwAAADQxJQAAAAA=]]></state>
+                    <state name="RTimeMain" type="23" size="24"><![CDATA[278CPwAAAD8AAAAABAAAADIuMHMAAAAA]]></state>
+                    <state name="RTimeHigh" type="23" size="24"><![CDATA[Y4/CPgAAAD8AAAAABAAAAC0yNCUAAAAA]]></state>
+                    <state name="RTFreqHigh" type="23" size="27"><![CDATA[VzeJPgAAAD8AAAAABwAAADMuNzFrSHoA////]]></state>
+                    <state name="HighCut" type="23" size="27"><![CDATA[8Q71PgAAQD8AAAAABwAAADQuMTlrSHoAAAAA]]></state>
+                    <state name="Mix" type="23" size="24"><![CDATA[AACAPwAAAD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="InWidth" type="23" size="23"><![CDATA[bef7PgAAAD8AAAAAAwAAAC0yJQAAAAA=]]></state>
+                    <state name="ERType" type="4" size="261"><![CDATA[AAAAAAAAAAAAAQAAEAAAAAAAAAACAAAAAAAAAFwAAABgAAAAZgAAAGsAAABwAAAAfgAAAI0AAACbAAAAqAAAALUAAADDAAAA0AAAAN0AAADkAAAA8AAAAPoAAABPZmYAQm9vdGgAQ2x1YgBSb29tAFNtYWxsIENoYW1iZXIATWVkaXVtIENoYW1iZXIATGFyZ2UgQ2hhbWJlcgBTbWFsbCBTdHVkaW8ATGFyZ2UgU3R1ZGlvAFNjb3JpbmcgU3RhZ2UAUGhpbGhhcm1vbmljAENvbmNlcnQgSGFsbABDaHVyY2gAT3BlcmEgSG91c2UAVmludGFnZSAxAFZpbnRhZ2UgMgDN]]></state>
+                    <state name="ERSpread" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAzc3N]]></state>
+                    <state name="ReverbDelay" type="23" size="23"><![CDATA[AAAAAAAAAAAAAAAAAwAAADBtcwDNzc0=]]></state>
+                    <state name="Density" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAfwAA]]></state>
+                    <state name="Ambience" type="23" size="23"><![CDATA[MggsPgAAAAAAAAAAAwAAADE3JQAAAAA=]]></state>
+                    <state name="RTimeLow" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                    <state name="RTFreqLow" type="23" size="25"><![CDATA[AAAAPwAAAD8AAAAABQAAADIwMEh6AM3NzQ==]]></state>
+                    <state name="OutWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                </node>
+            </node>
+            <node name="{21f9c5c9-e172-42f4-bc33-9c6db6a3f316}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAADQEUAGAAAAAIDyUwAAAAAAPhSJvfd/AAC8pT8GAAAAABClPwYAAAAAAAAAAAAAAFVuYXNzaWduZWQASQYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAgPJTAAAAAAAFAAAABAAAABBohwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="7"><![CDATA[UmV2ZXJiAA==]]></state>
+                <state name="InstrumentXml" type="7" size="48"><![CDATA[dmZzOi9FZmZlY3RzL1ByZXNldHMvUmV2ZXJiLy8wMDMgU21hbGwgSGFsbC54bWwA]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DisplayName" type="7" size="11"><![CDATA[U21hbGwgSGFsbAA=]]></state>
+                <state name="DefaultDisplayName" type="7" size="11"><![CDATA[U21hbGwgSGFsbAA=]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Attributes" type="4" size="55"><![CDATA[AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAACAAAABJbnN0cnVtZW50VHlwZT1FZmZlY3QAAA==]]></state>
+                <state name="InstrumentType" type="7" size="7"><![CDATA[RWZmZWN0AA==]]></state>
+                <node name="DSP" type="Reverb">
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="PreDelay" type="23" size="24"><![CDATA[NBqNPgAAAAAAAAAABAAAADE5bXMAAAAA]]></state>
+                    <state name="ERGain" type="23" size="23"><![CDATA[cr4fPwAAAD8AAAAAAwAAADYyJQAAAAA=]]></state>
+                    <state name="RoomSize" type="23" size="23"><![CDATA[NV46PwAAgD8AAAAAAwAAADczJQAAAAA=]]></state>
+                    <state name="RTimeMain" type="23" size="24"><![CDATA[HaH9PgAAAD8AAAAABAAAADEuOXMAAAAA]]></state>
+                    <state name="RTimeHigh" type="23" size="24"><![CDATA[em6/PgAAAD8AAAAABAAAAC0yNSUAAAAA]]></state>
+                    <state name="RTFreqHigh" type="23" size="27"><![CDATA[IA4HPwAAAD8AAAAABwAAADYuNzRrSHoANgAu]]></state>
+                    <state name="HighCut" type="23" size="27"><![CDATA[gWH1PgAAQD8AAAAABwAAADQuMjBrSHoAAAAA]]></state>
+                    <state name="Mix" type="23" size="24"><![CDATA[AACAPwAAAD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="InWidth" type="23" size="25"><![CDATA[AACAPwAAAD8AAAAABQAAACsxMDAlAAAAAA==]]></state>
+                    <state name="ERType" type="4" size="261"><![CDATA[AAAAAAAAAAAAAQAAEAAAAAAAAAAKAAAAAAAAAFwAAABgAAAAZgAAAGsAAABwAAAAfgAAAI0AAACbAAAAqAAAALUAAADDAAAA0AAAAN0AAADkAAAA8AAAAPoAAABPZmYAQm9vdGgAQ2x1YgBSb29tAFNtYWxsIENoYW1iZXIATWVkaXVtIENoYW1iZXIATGFyZ2UgQ2hhbWJlcgBTbWFsbCBTdHVkaW8ATGFyZ2UgU3R1ZGlvAFNjb3JpbmcgU3RhZ2UAUGhpbGhhcm1vbmljAENvbmNlcnQgSGFsbABDaHVyY2gAT3BlcmEgSG91c2UAVmludGFnZSAxAFZpbnRhZ2UgMgDN]]></state>
+                    <state name="ERSpread" type="23" size="23"><![CDATA[Jtv5PgAAgD8AAAAAAwAAADQ5JQAAAAA=]]></state>
+                    <state name="ReverbDelay" type="23" size="23"><![CDATA[kcL1PQAAAAAAAAAAAwAAADRtcwAAAAA=]]></state>
+                    <state name="Density" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="Ambience" type="23" size="23"><![CDATA[sfN9PgAAAAAAAAAAAwAAADI1JQAAAAA=]]></state>
+                    <state name="RTimeLow" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                    <state name="RTFreqLow" type="23" size="25"><![CDATA[AAAAPwAAAD8AAAAABQAAADIwMEh6AM3NzQ==]]></state>
+                    <state name="OutWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                </node>
+            </node>
+            <node name="{46508a3c-4f84-4689-a5b6-135d73565f71}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAABgx0gGAAAAAIDyUwAAAAAAPhSJvfd/AACs0z8GAAAAAADTPwYAAAAAAAAAAAAAAFVuYXNzaWduZWQASQYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAgPJTAAAAAAAFAAAABAAAAIBshwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="7"><![CDATA[UmV2ZXJiAA==]]></state>
+                <state name="InstrumentXml" type="7" size="48"><![CDATA[dmZzOi9FZmZlY3RzL1ByZXNldHMvUmV2ZXJiLy8wMDQgTGFyZ2UgSGFsbC54bWwA]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DisplayName" type="7" size="11"><![CDATA[TGFyZ2UgSGFsbAA=]]></state>
+                <state name="DefaultDisplayName" type="7" size="11"><![CDATA[TGFyZ2UgSGFsbAA=]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Attributes" type="4" size="55"><![CDATA[AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAACAAAABJbnN0cnVtZW50VHlwZT1FZmZlY3QAAA==]]></state>
+                <state name="InstrumentType" type="7" size="7"><![CDATA[RWZmZWN0AA==]]></state>
+                <node name="DSP" type="Reverb">
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="PreDelay" type="23" size="24"><![CDATA[hUKhPgAAAAAAAAAABAAAADI1bXMAAAAA]]></state>
+                    <state name="ERGain" type="23" size="23"><![CDATA[ehQuPwAAAD8AAAAAAwAAADY4JQAAAAA=]]></state>
+                    <state name="RoomSize" type="23" size="23"><![CDATA[FNlOPwAAgD8AAAAAAwAAADgxJQAAAAA=]]></state>
+                    <state name="RTimeMain" type="23" size="24"><![CDATA[nNIpPwAAAD8AAAAABAAAADMuM3MAAAAA]]></state>
+                    <state name="RTimeHigh" type="23" size="24"><![CDATA[fzTDPgAAAD8AAAAABAAAAC0yNCUAAAAA]]></state>
+                    <state name="RTFreqHigh" type="23" size="27"><![CDATA[8XXQPgAAAD8AAAAABwAAADUuMTFrSHoAdAB5]]></state>
+                    <state name="HighCut" type="23" size="27"><![CDATA[qkchPwAAQD8AAAAABwAAADYuNjBrSHoANgAu]]></state>
+                    <state name="Mix" type="23" size="24"><![CDATA[AACAPwAAAD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="InWidth" type="23" size="23"><![CDATA[KDEIPwAAAD8AAAAAAwAAACs2JQAAAAA=]]></state>
+                    <state name="ERType" type="4" size="261"><![CDATA[AAAAAAAAAAAAAQAAEAAAAAAAAAALAAAAAAAAAFwAAABgAAAAZgAAAGsAAABwAAAAfgAAAI0AAACbAAAAqAAAALUAAADDAAAA0AAAAN0AAADkAAAA8AAAAPoAAABPZmYAQm9vdGgAQ2x1YgBSb29tAFNtYWxsIENoYW1iZXIATWVkaXVtIENoYW1iZXIATGFyZ2UgQ2hhbWJlcgBTbWFsbCBTdHVkaW8ATGFyZ2UgU3R1ZGlvAFNjb3JpbmcgU3RhZ2UAUGhpbGhhcm1vbmljAENvbmNlcnQgSGFsbABDaHVyY2gAT3BlcmEgSG91c2UAVmludGFnZSAxAFZpbnRhZ2UgMgDN]]></state>
+                    <state name="ERSpread" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAzc3N]]></state>
+                    <state name="ReverbDelay" type="23" size="24"><![CDATA[JpNJPgAAAAAAAAAABAAAADEwbXMAAAAA]]></state>
+                    <state name="Density" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAzc3N]]></state>
+                    <state name="Ambience" type="23" size="22"><![CDATA[AAAAAAAAAAAAAAAAAgAAADAlAO3Zfw==]]></state>
+                    <state name="RTimeLow" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                    <state name="RTFreqLow" type="23" size="25"><![CDATA[AAAAPwAAAD8AAAAABQAAADIwMEh6AM3NzQ==]]></state>
+                    <state name="OutWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                </node>
+            </node>
+            <node name="{3d4c424c-65bd-446e-b6f9-fa1539a2daf6}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAAAQyUgGAAAAAIDyUwAAAAAAPhSJvfd/AAAMVj8GAAAAAGBVPwYAAAAAAAAAAAAAAFVuYXNzaWduZWQASQYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAgPJTAAAAAAAFAAAABAAAAGBuhwQAAAAA]]></state>
+                <state name="DSPType" type="7" size="7"><![CDATA[UmV2ZXJiAA==]]></state>
+                <state name="InstrumentXml" type="7" size="43"><![CDATA[dmZzOi9FZmZlY3RzL1ByZXNldHMvUmV2ZXJiLy8wMDUgUGxhdGUueG1sAA==]]></state>
+                <state name="ContentPath" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="PatchName" type="7" size="15"><![CDATA[TmV3IEluc3RydW1lbnQA]]></state>
+                <state name="Icon" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="DisplayName" type="7" size="6"><![CDATA[UGxhdGUA]]></state>
+                <state name="DefaultDisplayName" type="7" size="6"><![CDATA[UGxhdGUA]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Attributes" type="4" size="55"><![CDATA[AAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAACAAAABJbnN0cnVtZW50VHlwZT1FZmZlY3QAAA==]]></state>
+                <state name="InstrumentType" type="7" size="7"><![CDATA[RWZmZWN0AA==]]></state>
+                <node name="DSP" type="Reverb">
+                    <state name="Patch" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="PreDelay" type="23" size="23"><![CDATA[AAAAAAAAAAAAAAAAAwAAADBtcwDNzc0=]]></state>
+                    <state name="ERGain" type="23" size="23"><![CDATA[ZztfPwAAAD8AAAAAAwAAADg3JQAAAAA=]]></state>
+                    <state name="RoomSize" type="23" size="23"><![CDATA[yrLlPgAAgD8AAAAAAwAAADQ1JQAAAAA=]]></state>
+                    <state name="RTimeMain" type="23" size="24"><![CDATA[AoEVPwAAAD8AAAAABAAAADIuNXMAAAAA]]></state>
+                    <state name="RTimeHigh" type="23" size="22"><![CDATA[////PgAAAD8AAAAAAgAAADAlAAAAAA==]]></state>
+                    <state name="RTFreqHigh" type="23" size="27"><![CDATA[YK9XPwAAAD8AAAAABwAAADEzLjlrSHoAawBI]]></state>
+                    <state name="HighCut" type="23" size="27"><![CDATA[TaPRPgAAQD8AAAAABwAAADMuNDFrSHoAdAB5]]></state>
+                    <state name="Mix" type="23" size="24"><![CDATA[AACAPwAAAD8AAAAABAAAADEwMCUAAAAA]]></state>
+                    <state name="InWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                    <state name="ERType" type="4" size="261"><![CDATA[AAAAAAAAAAAAAQAAEAAAAAAAAAAOAAAAAAAAAFwAAABgAAAAZgAAAGsAAABwAAAAfgAAAI0AAACbAAAAqAAAALUAAADDAAAA0AAAAN0AAADkAAAA8AAAAPoAAABPZmYAQm9vdGgAQ2x1YgBSb29tAFNtYWxsIENoYW1iZXIATWVkaXVtIENoYW1iZXIATGFyZ2UgQ2hhbWJlcgBTbWFsbCBTdHVkaW8ATGFyZ2UgU3R1ZGlvAFNjb3JpbmcgU3RhZ2UAUGhpbGhhcm1vbmljAENvbmNlcnQgSGFsbABDaHVyY2gAT3BlcmEgSG91c2UAVmludGFnZSAxAFZpbnRhZ2UgMgDN]]></state>
+                    <state name="ERSpread" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAzc3N]]></state>
+                    <state name="ReverbDelay" type="23" size="23"><![CDATA[AAAAAAAAAAAAAAAAAwAAADBtcwDNzc0=]]></state>
+                    <state name="Density" type="23" size="24"><![CDATA[AACAPwAAgD8AAAAABAAAADEwMCUAfwAA]]></state>
+                    <state name="Ambience" type="23" size="23"><![CDATA[x+NxPgAAAAAAAAAAAwAAADI0JQAAAAA=]]></state>
+                    <state name="RTimeLow" type="23" size="24"><![CDATA[eLvdPgAAAD8AAAAABAAAAC0xMyUAAAAA]]></state>
+                    <state name="RTFreqLow" type="23" size="25"><![CDATA[DIfDPgAAAD8AAAAABQAAADExNkh6AAAAMQ==]]></state>
+                    <state name="OutWidth" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlAM3NzQ==]]></state>
+                </node>
+            </node>
+            <node name="{ea64bdd5-0a28-439d-a77f-4af066b8e58b}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAABQT+8OAAAAANCjUwAAAAAAPhSJvfd/AACcOJMLAAAAAPA3kwsAAAAAAAAAAAAAAFVuYXNzaWduZWQAYg4AAAAA/v////////8AAAAAAAAAAA8AAAAAAAAA0KNTAAAAAAAFAAAABAAAAPD7qg4AAAAA]]></state>
+                <state name="DSPType" type="7" size="6"><![CDATA[SHlwZXIA]]></state>
+                <state name="InstrumentXml" type="7" size="67"><![CDATA[dmZzOi9JbnN0cnVtZW50L1BhdGNoZXMvMDMgS2V5cy8wMSBBY291c3RpYyBQaWFub3MvR3JhbmQgUGlhbm8ueG1sAA==]]></state>
+                <state name="ContentPath" type="7" size="40"><![CDATA[dmZzOi9JbnN0cnVtZW50L0h5cGVyL0NvbnRlbnQvSWduaXRlVjEvAA==]]></state>
+                <state name="PatchName" type="7" size="12"><![CDATA[R3JhbmQgUGlhbm8A]]></state>
+                <state name="Icon" type="7" size="42"><![CDATA[dmZzOi8vSW5zdHJ1bWVudC9QYXRjaGVzLzAzIEtleXMvS2V5cy5wbmcA]]></state>
+                <state name="DisplayName" type="7" size="12"><![CDATA[R3JhbmQgUGlhbm8A]]></state>
+                <state name="DefaultDisplayName" type="7" size="12"><![CDATA[R3JhbmQgUGlhbm8A]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="8"><![CDATA[IzEzNDM5NwA=]]></state>
+                <state name="Attributes" type="4" size="280"><![CDATA[AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAADwAAABUAAAAfAAAAKYAAADSAAAA7QAAAPgAAAAJAQAAQ29udGVudFNvdXJjZT1GYWN0b3J5IDEARGVmYXVsdENob3JkUHJvY2Vzc29yU2V0dGluZz1CYWxsYWQuY3BzAERlZmF1bHRDaG9yZFByb2Nlc3NvclNldHRpbmdDYXRlZ29yeT1LZXlzAERlZmF1bHRQaHJhc2U9QWMgUGlhbm8gMTIwIFJvY2sgQmFja2luZy5wcHMARGVmYXVsdFBocmFzZUNhdGVnb3J5PUtleXMARHJ1bT1mYWxzZQBNYW51ZmFjdHVyZXI9QUlSAFBhdGNoTnVtYmVyPTAAAA==]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Hyper">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAFBP7w4AAAAAgOR/DgAAAADQ438OAAAAAGiWUwAAAAAAbkQGo/x/AADcNJMLAAAAADA0kwsAAAAAAAAAAAAAAFVuYXNzaWduZWQAYg4AAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAACJZTAAAAAAAFAAAABAAAABD6qg4AAAAA]]></state>
+                    <state name="Patch" type="7" size="12"><![CDATA[R3JhbmQgUGlhbm8A]]></state>
+                    <state name="Param0" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmADY2YjhlNThifS9EU1AvSXNDbG9uaW5nAABhbQ==]]></state>
+                    <state name="Param1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmADY2YjhlNThifS9EU1AvUGFyYW1UZXh0MQAAAA==]]></state>
+                    <state name="Param3" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAmZmZPpmZmT6ZmZk+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAGA6dAAAAADgYDp0AAAAAAAAAAAAAAAACQAAAA==]]></state>
+                    <state name="Param4" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAhevRPoXr0T6F69E+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmADY2YjhlNThifS9EU1AvUGFyYW1UZXh0MwAAAA==]]></state>
+                    <state name="Param5" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAC0PgAAtD4AALQ+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmADY2YjhlNThifS9EU1AvUGFyYW1UZXh0NAAAAA==]]></state>
+                </node>
+            </node>
+            <node name="{5716ec7a-4e36-405b-a105-448395d3fadf}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAABgOe8OAAAAAPCFUwAAAAAAPhSJvfd/AACsZa0QAAAAAABlrRAAAAAAAAAAAAAAAFVuYXNzaWduZWQATA4AAAAA/v////////8AAAAAAAAAAA8AAAAAAAAA8IVTAAAAAAAFAAAABAAAACCkEA0AAAAA]]></state>
+                <state name="DSPType" type="7" size="6"><![CDATA[SHlwZXIA]]></state>
+                <state name="InstrumentXml" type="7" size="69"><![CDATA[dmZzOi9JbnN0cnVtZW50L1BhdGNoZXMvMDkgUGl0Y2hlZCBQZXJjdXNzaW9uLzAxIE1hbGxldHMvTWFyaW1iYS54bWwA]]></state>
+                <state name="ContentPath" type="7" size="40"><![CDATA[dmZzOi9JbnN0cnVtZW50L0h5cGVyL0NvbnRlbnQvSWduaXRlVjEvAA==]]></state>
+                <state name="PatchName" type="7" size="8"><![CDATA[TWFyaW1iYQA=]]></state>
+                <state name="Icon" type="7" size="69"><![CDATA[dmZzOi8vSW5zdHJ1bWVudC9QYXRjaGVzLzA5IFBpdGNoZWQgUGVyY3Vzc2lvbi9QaXRjaGVkUGVyY3Vzc2lvbi5wbmcA]]></state>
+                <state name="DisplayName" type="7" size="8"><![CDATA[TWFyaW1iYQA=]]></state>
+                <state name="DefaultDisplayName" type="7" size="8"><![CDATA[TWFyaW1iYQA=]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="8"><![CDATA[I0RFQUQwMAA=]]></state>
+                <state name="Attributes" type="4" size="307"><![CDATA[AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAADwAAABUAAAAgwAAALsAAADfAAAACAEAABMBAAAkAQAAQ29udGVudFNvdXJjZT1GYWN0b3J5IDIARGVmYXVsdENob3JkUHJvY2Vzc29yU2V0dGluZz1SaHl0aG1pYyBQZXJjLmNwcwBEZWZhdWx0Q2hvcmRQcm9jZXNzb3JTZXR0aW5nQ2F0ZWdvcnk9UGl0Y2hlZCBQZXJjdXNzaW9uAERlZmF1bHRQaHJhc2U9TWFyaW1iYSAxMDAgV29ybGQucHBzAERlZmF1bHRQaHJhc2VDYXRlZ29yeT1QaXRjaGVkIFBlcmN1c3Npb24ARHJ1bT1mYWxzZQBNYW51ZmFjdHVyZXI9QUlSAFBhdGNoTnVtYmVyPTkAAA==]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Hyper">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGA57w4AAAAAMDIoEQAAAACAMSgRAAAAAIh4UwAAAAAAbkQGo/x/AAC8Rq0QAAAAABBGrRAAAAAAAAAAAAAAAFVuYXNzaWduZWQASg4AAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAKHhTAAAAAAAFAAAABAAAAJCoEA0AAAAA]]></state>
+                    <state name="Patch" type="7" size="8"><![CDATA[TWFyaW1iYQA=]]></state>
+                    <state name="Param0" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param3" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param4" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param5" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAqnkQP6p5ED+qeRA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                </node>
+            </node>
+            <node name="{ba05c7f3-07d2-4b86-8148-a404a3bb5d14}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAACQSO8OAAAAAPCFUwAAAAAAPhSJvfd/AABspqwQAAAAAMClrBAAAAAAAAAAAAAAAFVuYXNzaWduZWQAGRUAAAAA/v////////8AAAAAAAAAAA8AAAAAAAAA8IVTAAAAAAAFAAAABAAAAADuYRoAAAAA]]></state>
+                <state name="DSPType" type="7" size="6"><![CDATA[SHlwZXIA]]></state>
+                <state name="InstrumentXml" type="7" size="65"><![CDATA[dmZzOi9JbnN0cnVtZW50L1BhdGNoZXMvMDEgRHJ1bXMvMDEgQWNvdXN0aWMgRHJ1bXMvUG9wIEtpdCBBLnhtbAA=]]></state>
+                <state name="ContentPath" type="7" size="40"><![CDATA[dmZzOi9JbnN0cnVtZW50L0h5cGVyL0NvbnRlbnQvSWduaXRlVjEvAA==]]></state>
+                <state name="PatchName" type="7" size="10"><![CDATA[UG9wIEtpdCBBAA==]]></state>
+                <state name="Icon" type="7" size="44"><![CDATA[dmZzOi8vSW5zdHJ1bWVudC9QYXRjaGVzLzAxIERydW1zL0RydW1zLnBuZwA=]]></state>
+                <state name="DisplayName" type="7" size="10"><![CDATA[UG9wIEtpdCBBAA==]]></state>
+                <state name="DefaultDisplayName" type="7" size="10"><![CDATA[UG9wIEtpdCBBAA==]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="8"><![CDATA[I0VBMkIwMAA=]]></state>
+                <state name="Attributes" type="4" size="181"><![CDATA[AAAAAAAAAAAAAQAABgAAAAAAAAAAAAAAAAAAADQAAABMAAAAbgAAAIoAAACUAAAApQAAAENvbnRlbnRTb3VyY2U9RmFjdG9yeSAxAERlZmF1bHRQaHJhc2U9UG9wIEEgMTAwIFBvcCAxLnBwcwBEZWZhdWx0UGhyYXNlQ2F0ZWdvcnk9RHJ1bXMARHJ1bT10cnVlAE1hbnVmYWN0dXJlcj1BSVIAUGF0Y2hOdW1iZXI9NjEAAA==]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Hyper">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAJBI7w4AAAAAUEkpEQAAAACgSCkRAAAAAIh4UwAAAAAAbkQGo/x/AAD8u9sQAAAAAFC72xAAAAAAAAAAAAAAAFVuYXNzaWduZWQAGRUAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAKHhTAAAAAAAFAAAABAAAAKDrYRoAAAAA]]></state>
+                    <state name="Patch" type="7" size="10"><![CDATA[UG9wIEtpdCBBAA==]]></state>
+                    <state name="Param0" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param3" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAD0PgAA9D4AAPQ+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param4" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAXI9CPlyPQj5cj0I+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param5" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAOKLAPjiiwD44osA+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                </node>
+            </node>
+            <node name="{85a6a650-5b02-46d6-99db-28974e232ba6}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAAAAsVsZAAAAAPCFUwAAAAAAPhSJvfd/AABsatsQAAAAAMBp2xAAAAAAAAAAAAAAAFVuYXNzaWduZWQAuhUAAAAA/v////////8AAAAAAAAAAA8AAAAAAAAA8IVTAAAAAAAFAAAABAAAACDUpRUAAAAA]]></state>
+                <state name="DSPType" type="7" size="6"><![CDATA[SHlwZXIA]]></state>
+                <state name="InstrumentXml" type="7" size="69"><![CDATA[dmZzOi9JbnN0cnVtZW50L1BhdGNoZXMvMDIgQmFzc2VzLzAxIEVsZWN0cmljIEJhc3Nlcy9GaW5nZXIgQmFzcy54bWwA]]></state>
+                <state name="ContentPath" type="7" size="40"><![CDATA[dmZzOi9JbnN0cnVtZW50L0h5cGVyL0NvbnRlbnQvSWduaXRlVjEvAA==]]></state>
+                <state name="PatchName" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                <state name="Icon" type="7" size="46"><![CDATA[dmZzOi8vSW5zdHJ1bWVudC9QYXRjaGVzLzAyIEJhc3Nlcy9CYXNzZXMucG5nAA==]]></state>
+                <state name="DisplayName" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                <state name="DefaultDisplayName" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                <state name="EntitlementID" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="EntitlementVersion" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Color" type="7" size="8"><![CDATA[IzAwNjQ0QwA=]]></state>
+                <state name="Attributes" type="4" size="282"><![CDATA[AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAADwAAABUAAAAfAAAAKgAAADRAAAA7gAAAPkAAAAKAQAAQ29udGVudFNvdXJjZT1GYWN0b3J5IDEARGVmYXVsdENob3JkUHJvY2Vzc29yU2V0dGluZz1CYWxsYWQuY3BzAERlZmF1bHRDaG9yZFByb2Nlc3NvclNldHRpbmdDYXRlZ29yeT1CYXNzZXMARGVmYXVsdFBocmFzZT1FbGVjdHJpYyAxMDcgQWNpZCBKYXp6LnBwcwBEZWZhdWx0UGhyYXNlQ2F0ZWdvcnk9QmFzc2VzAERydW09ZmFsc2UATWFudWZhY3R1cmVyPUFJUgBQYXRjaE51bWJlcj0xMwCK]]></state>
+                <state name="InstrumentType" type="7" size="11"><![CDATA[SW5zdHJ1bWVudAA=]]></state>
+                <node name="DSP" type="Hyper">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAACxWxkAAAAA4CEqEQAAAAAwISoRAAAAAIh4UwAAAAAAbkQGo/x/AAAMcNsQAAAAAGBv2xAAAAAAAAAAAAAAAFVuYXNzaWduZWQAuhUAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAKHhTAAAAAAAFAAAABAAAAEDXpRUAAAAA]]></state>
+                    <state name="Patch" type="7" size="12"><![CDATA[RmluZ2VyIEJhc3MA]]></state>
+                    <state name="Param0" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAiv1RP4r9UT+K/VE/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param3" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param4" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                    <state name="Param5" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAACYPgAAmD4AAJg+AACAPwAAAAAAAIA/AAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                </node>
+            </node>
+        </node>
+        <node name="TaskManager" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAABQx2QEAAAAALj0UwAAAAAAPhSJvfd/AADs9F0EAAAAAED0XQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAAAVAgAAAAAAAAAAAAAAAA8AAAAAAAAAuPRTAAAAAAAFAAAABAAAACD+XgQAAAAA]]></state>
+            <node name="Tasks" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAACQLl4EAAAAAPjyUwAAAAAAPhSJvfd/AAAsAF4EAAAAAID/XQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYwQAAAAAIgAAAAAAAAAAAAAAAAAAAA8AAAAAAAAA+PJTAAAAAAAFAAAABAAAAFD+XgQAAAAA]]></state>
+            </node>
+        </node>
+        <node name="MIDIKeyboard" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAoFtaBAAAAAAwBV4EAAAAAFjzUwAAAAAAPhSJvfd/AADM9l0EAAAAACD2XQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAWPNTAAAAAAAFAAAABAAAAND+XgQAAAAA]]></state>
+        </node>
+        <node name="Mixer" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGA5XQQAAAAAkApkBAAAAADgCWQEAAAAAFjvUwAAAAAAPhSJvfd/AABs7V0EAAAAAMDsXQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAWO9TAAAAAAAFAAAABAAAAEACXwQAAAAA]]></state>
+            <state name="Channels" type="4" size="201"><![CDATA[AAAAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAACwAAABTAAAAegAAAKEAAAB7YzFjMmFlMDktMDNjNC00N2I4LTg5MjYtZmM1ZWI3MjhjZWVifQB7MDAzZjgyNTEtMjg1Zi00MjUwLTg1OWMtODU4NGY1M2U5OTM2fQB7NTMyMGI0M2QtYmVhMS00NGI0LWEyNzItNDRhMjVhZTc1OTAxfQB7YjZkNDM0NzUtZDNlYy00MjRiLWFkNWYtNTE2NTU1MTllNmIyfQAA]]></state>
+            <node name="Out1" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAACQGXwEAAAAAFDnUwAAAAAAPhSJvfd/AACsHn8EAAAAAAAefwQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAALAEXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAHIAZQBzAGUAdABzAC8AUgBlAHYAZQByAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQI5iBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAwhmIEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////UIF/BAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAABAjmIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQI5iBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAABghmIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////UIF/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACQj2IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQI5iBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAABwjmIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////UIF/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQkGIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA0IhiBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AABA0mMEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAewQAAAAAwIliBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADAiWIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[AQAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="8"><![CDATA[TGltaXRlcgE=]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACWl2IEAAAAAAAAAAAAAABPZmYAdAAAAACIl2IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="Master" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAABwHXwEAAAAAFDnUwAAAAAAPhSJvfd/AADMDX8EAAAAACANfwQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAABgvfd/AAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAFADXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAHIAZQBzAGUAdABzAC8AUgBlAHYAZQByAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAsJliBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAGAAAAAAAAFVuYXNzaWduZWQA////////8IZ/BAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAACwmWIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAsJliBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAGQAAAAAAAFVuYXNzaWduZWQA////////8IZ/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQlmIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAsJliBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAGQAAAAAAAFVuYXNzaWduZWQA////////8IZ/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACwlmIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA4JliBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAAzmMEAAAAAKSgVb33fwAAIgAAAAAAAFVuYXNzaWduZWQAewQAAAAAEKZiBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAQpmIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABWp2IEAAAAAAAAAAAAAABPZmYAdAAAAABIp2IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABWnmIEAAAAAAAAAAAAAABPZmYAdAAAAABInmIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGnmIEAAAAAAAAAAAAAABPZmYAdAAAAAB4nmIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACmsWIEAAAAAAAAAAAAAABPZmYAdAAAAACYsWIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAD2r2IEAAAAAAAAAAAAAABPZmYAdAAAAADor2IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGqmIEAAAAAAAAAAAAAABPZmYAdAAAAAB4qmIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAA2rGIEAAAAAAAAAAAAAABPZmYAdAAAAAAorGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="AUX5" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAADgD3wEAAAAAFDnUwAAAAAAPhSJvfd/AACMMIAEAAAAAOAvgAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAACBBAAAAAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAHAIXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAUGFuAAAAAAAFAAAATXV0ZQAAAAAABQ==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAoJFiBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////kIZ/BAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAACgkWIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAoJFiBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////kIZ/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABgnmIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAoJFiBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACAhGIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////kIZ/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACgtWIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA0LhiBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAAWIAEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAgQQAAAAAULdiBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQt2IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezNkNGM0MjRjLTY1YmQtNDQ2ZS1iNmY5LWZhMTUzOWEyZGFmNn0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2tmIEAAAAAAAAAAAAAABPZmYAdAAAAACotmIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABmxGIEAAAAAAAAAAAAAABPZmYAdAAAAABYxGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABmxGIEAAAAAAAAAAAAAABPZmYAdAAAAABYxGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGVGIEAAAAAAAAAAAAAABPZmYAdAAAAAA4VGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAWS2IEAAAAAAAAAAAAAABPZmYAdAAAAAAIS2IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAmUGIEAAAAAAAAAAAAAABPZmYAdAAAAAAYUGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2UGIEAAAAAAAAAAAAAABPZmYAdAAAAACoUGIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="AUX4" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAACwFXwEAAAAAFDnUwAAAAAAPhSJvfd/AACs74EEAAAAAADvgQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAYgQAAAAAAABgvfd/AAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAIAJXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgD6DBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAAQ4MEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////kGt/BAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAACAPoMEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgD6DBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADwQ4MEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////kGt/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADwRoMEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgD6DBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACwRIMEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////kGt/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQQYMEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAID6DBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AABAVIAEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAgQQAAAAAsD6DBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACwPoMEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezQ2NTA4YTNjLTRmODQtNDY4OS1hNWI2LTEzNWQ3MzU2NWY3MX0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGRYMEAAAAAAAAAAAAAABPZmYAdAAAAAD4RIMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGS4MEAAAAAAAAAAAAAABPZmYAdAAAAAD4SoMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAB2TYMEAAAAAAAAAAAAAABPZmYAdAAAAABoTYMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGTYMEAAAAAAAAAAAAAABPZmYAdAAAAAA4TYMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAB2SoMEAAAAAAAAAAAAAABPZmYAdAAAAABoSoMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADmVYMEAAAAAAAAAAAAAABPZmYAdAAAAADYVYMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADWYIIEAAAAAAAAAAAAAABPZmYAdAAAAADIYIIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="AUX3" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAABAI3wEAAAAAFDnUwAAAAAAPhSJvfd/AADMaYMEAAAAACBpgwQAAAAAAAAAAAAAAFVuYXNzaWduZWQAggQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAADAOXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgGOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADwXIIEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////UGl/BAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAACAY4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgGOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADAWYIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////UGl/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADgV4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAgGOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADAWYIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////UGl/BAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACQWYIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAkFyCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAAU4AEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAgQQAAAAAsF2CBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACwXYIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezIxZjljNWM5LWUxNzItNDJmNC1iYzMzLTljNmRiNmEzZjMxNn0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADGZIIEAAAAAAAAAAAAAABPZmYAdAAAAAC4ZIIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAA2bYIEAAAAAAAAAAAAAABPZmYAdAAAAAAobYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAB2ZoIEAAAAAAAAAAAAAABPZmYAdAAAAABoZoIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADGeYIEAAAAAAAAAAAAAABPZmYAdAAAAAC4eYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACWeYIEAAAAAAAAAAAAAABPZmYAdAAAAACIeYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABmc4IEAAAAAAAAAAAAAABPZmYAdAAAAABYc4IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADmeoIEAAAAAAAAAAAAAABPZmYAdAAAAADYeoIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="AUX2" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAAAwJXwEAAAAAFDnUwAAAAAAPhSJvfd/AACsnYUEAAAAAACdhQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAggQAAAAAAABgvfd/AAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAJATXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAYHqCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAwXIIEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////wIGFBAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAABgeoIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAYHqCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAwXIIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////wIGFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACggoIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAYHqCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAwXIIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////wIGFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACAhIIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAsIGCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AACAVoAEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAgQQAAAAAEH+CBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAQf4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezhmYzkyNzY0LTFmMDUtNGI2OC04N2RjLTU4OTRmMDNmZTYxN30B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGiIIEAAAAAAAAAAAAAABPZmYAdAAAAAD4h4IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGiIIEAAAAAAAAAAAAAABPZmYAdAAAAAD4h4IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAB2ioIEAAAAAAAAAAAAAABPZmYAdAAAAABoioIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2jIIEAAAAAAAAAAAAAABPZmYAdAAAAACojIIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACmn4IEAAAAAAAAAAAAAABPZmYAdAAAAACYn4IEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAWloIEAAAAAAAAAAAAAABPZmYAdAAAAAAIloIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADGlIIEAAAAAAAAAAAAAABPZmYAdAAAAAC4lIIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="AUX1" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAAAgJ3wEAAAAAFDnUwAAAAAAPhSJvfd/AADcGIYEAAAAADAYhgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAggQAAAAAAABgvfd/AAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAIAVXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQHOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAAYoIEAAAAAAAAAAAAAAAAFgAAAAAAAFVuYXNzaWduZWQA////////QGKFBAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAABAc4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQHOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAAYoIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////QGKFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACwhIIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAQHOCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAAAAYoIEAAAAAAAAAAAAAAAAFwAAAAAAAFVuYXNzaWduZWQA////////QGKFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACAooIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAwKGCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AACAXoAEAAAAAKSgVb33fwAAIAAAAAAAAFVuYXNzaWduZWQAgQQAAAAAwKSCBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADApIIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezE3ZTY3Nzc3LWM3M2YtNDg0MS04ZmU5LWQ5ZWUyM2U1NzIxNX0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADmqoIEAAAAAAAAAAAAAABPZmYAdAAAAADYqoIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACWrIIEAAAAAAAAAAAAAABPZmYAdAAAAACIrIIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACmsYIEAAAAAAAAAAAAAABPZmYAdAAAAACYsYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2rYIEAAAAAAAAAAAAAABPZmYAdAAAAACorYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABWtoIEAAAAAAAAAAAAAABPZmYAdAAAAABItoIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAWvYIEAAAAAAAAAAAAAABPZmYAdAAAAAAIvYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABmwYIEAAAAAAAAAAAAAABPZmYAdAAAAABYwYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+            </node>
+            <node name="Metronome" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAAAQKXwEAAAAAFDnUwAAAAAAPhSJvfd/AABs44YEAAAAAMDihgQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAABgvfd/AAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAABAcXwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAMLyCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAABAvoIEAAAAAAAAAAAAAAAAGwAAAAAAAFVuYXNzaWduZWQA////////YGaFBAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAAAwvIIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAMLyCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADAv4IEAAAAAAAAAAAAAAAAHAAAAAAAAFVuYXNzaWduZWQA////////YGaFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADQu4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAMLyCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAACwwIIEAAAAAAAAAAAAAAAAHAAAAAAAAFVuYXNzaWduZWQA////////YGaFBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACQvIIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQD/T2ZmAAQAAAAAIMCCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AACAa4AEAAAAAKSgVb33fwAAJQAAAAAAAFVuYXNzaWduZWQAhgQAAAAAUM+CBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQz4IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[AQAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="10"><![CDATA[TWV0cm9ub21lAQ==]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGxYIEAAAAAAAAAAAAAABPZmYAdAAAAAB4xYIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+            </node>
+            <node name="Preview" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAACAG3wEAAAAAFDnUwAAAAAAPhSJvfd/AABMlYkEAAAAAKCUiQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAggQAAAAAAACKBAAAAAAAAAAAAAAAAA8AAAAAAAAAUOdTAAAAAAAFAAAABAAAAGA8hwQAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAG1zAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA4POCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADw74IEAAAAAAAAAAAAAAAAGQAAAAAAAFVuYXNzaWduZWQA////////ICqKBAAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAADg84IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA4POCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADw74IEAAAAAAAAAAAAAAAAGgAAAAAAAFVuYXNzaWduZWQA////////ICqKBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAw+IIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA4POCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgB8BAAAAADw74IEAAAAAAAAAAAAAAAAGgAAAAAAAFVuYXNzaWduZWQA////////ICqKBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAQ94IEAAAAAKDnUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAoPeCBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAAfIAEAAAAAKSgVb33fwAAIwAAAAAAAFVuYXNzaWduZWQAhgQAAAAAYPWCBAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABg9YIEAAAAAKDnUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="8"><![CDATA[UHJldmlldwE=]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAm9YIEAAAAAAAAAAAAAABPZmYAdAAAAAAY9YIEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABWCoMEAAAAAAAAAAAAAABPZmYAdAAAAABICoMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACWCYMEAAAAAAAAAAAAAABPZmYAdAAAAACICYMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGCIMEAAAAAAAAAAAAAABPZmYAdAAAAAA4CIMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGB4MEAAAAAAAAAAAAAABPZmYAdAAAAAB4B4MEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGB4MEAAAAAAAAAAAAAABPZmYAdAAAAAB4B4MEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABmEoMEAAAAAAAAAAAAAABPZmYAdAAAAABYEoMEAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+            </node>
+            <node name="{c1c2ae09-03c4-47b8-8926-fc5eb728ceeb}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAACgSigMAAAAAKCdUwAAAAAAPhSJvfd/AAD82JILAAAAAFDYkgsAAAAAAAAAAAAAAFVuYXNzaWduZWQAeAoAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAoJ1TAAAAAAAFAAAABAAAAGDQqg4AAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAG8AYwBrACAAQgBhAGMAawBpAG4AZwAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAvACUAMQAvAEkAbgBzAHQAcgB1AG0AZQBuAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAoAAAAA0NlVDAAAAAAAAAAAAAAAAA8AAAAAAABPbgAoDAAAAADwJHgKAAAAAAAAAAAAAAAAOAAAAAAAAFVuYXNzaWduZWQA////////EBxIDgAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAADQ2VUMAAAAAPCdUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAoAAAAA0NlVDAAAAAAAAAAAAAAAAA8AAAAAAABPbgAoDAAAAACQJXgKAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////EBxIDgAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABQ1VUMAAAAAPCdUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAoAAAAA0NlVDAAAAAAAAAAAAAAAAA8AAAAAAABPbgAoDAAAAACAIXgKAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////EBxIDgAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAg0lUMAAAAAPCdUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAA4AAAAAUNJVDAAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AADw1GEOAAAAAKSgVb33fwAAQgAAAAAAAFVuYXNzaWduZWQATwwAAAAA0OVVDAAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADQ5VUMAAAAAPCdUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[e2VhNjRiZGQ1LTBhMjgtNDM5ZC1hNzdmLTRhZjA2NmI4ZTU4Yn0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADW4VUMAAAAAAAAAAAAAABPZmYAdAAAAADI4VUMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADG6FUMAAAAAAAAAAAAAABPZmYAdAAAAAC46FUMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADm5lUMAAAAAAAAAAAAAABPZmYAdAAAAADY5lUMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACG4FUMAAAAAAAAAAAAAABPZmYAdAAAAAB44FUMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAB28FUMAAAAAAAAAAAAAABPZmYAdAAAAABo8FUMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAD261UMAAAAAAAAAAAAAABPZmYAdAAAAADo61UMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAA2AFYMAAAAAAAAAAAAAABPZmYAdAAAAAAoAFYMAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAofx/AAAAAAAAAAAAAAAAAAAAAAAAQPoSDA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUADgAAAAAgWn0NAAAAADMAAAA9AAAACAYAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAfS9JbnN0cnVtZW50NwAAAAAAAAAAIMNFDA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAfS9JbnN0cnVtZW50NQAAAAAAAAAAwAcTDA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAfS9JbnN0cnVtZW50NQAAAAAAAAAAEA8TDA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAfS9Xcml0ZU1peGVyQ2hhbm5lbFhtbAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAofx/AAAAAAD+/v4AAAAAAAAAAAAAMBATDA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUADgAAAABwZH0NAAAAADMAAAA9AAAACAYAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAfS9JbnN0cnVtZW50MgAAAAA9AAAACAYAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAofx/AAAAAAAAAAAAAAAAAAAAAAAAEMdFDA==]]></state>
+            </node>
+            <node name="{003f8251-285f-4250-859c-8584f53e9936}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAADwbokOAAAAAMB/UwAAAAAAPhSJvfd/AACs7awQAAAAAADtrBAAAAAAAAAAAAAAAFVuYXNzaWduZWQAsxAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAwH9TAAAAAAAFAAAABAAAAHCbURAAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAACAPzMzMz8AAIA/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAAAAD//////////0DhCqL8fwAAAwAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAD//////////0DhCqL8fwAAAAAlAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABAAAAAAMKxUBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAABQerMQAAAAAAAAAAAAAAAAOAAAAAAAAFVuYXNzaWduZWQA////////sLlGFQAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAAAwrFQGAAAAABCAUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABAAAAAAMKxUBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAABgebMQAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////sLlGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABAqFQGAAAAABCAUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQD/T2ZmABAAAAAAMKxUBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAACwb7MQAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////sLlGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAADQvVQGAAAAABCAUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAEL1UBgAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AACQrkQPAAAAAKSgVb33fwAAQgAAAAAAAFVuYXNzaWduZWQAUwwAAAAAcLdUBgAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABwt1QGAAAAABCAUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezU3MTZlYzdhLTRlMzYtNDA1Yi1hMTA1LTQ0ODM5NWQzZmFkZn0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACGxFQGAAAAAAAAAAAAAABPZmYAdAAAAAB4xFQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGyFQGAAAAAAAAAAAAAABPZmYAdAAAAAA4yFQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAA24VQGAAAAAAAAAAAAAABPZmYAdAAAAAAo4VQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAG7VQGAAAAAAAAAAAAAABPZmYAdAAAAAD47FQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABG9VQGAAAAAAAAAAAAAABPZmYAdAAAAAA49VQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACmAVUGAAAAAAAAAAAAAABPZmYAdAAAAACYAVUGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGB1UGAAAAAAAAAAAAAABPZmYAdAAAAAA4B1UGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+            </node>
+            <node name="{5320b43d-bea1-44b4-a272-44a25ae75901}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAADgcIkOAAAAAMB/UwAAAAAAPhSJvfd/AAAsuawQAAAAAIC4rBAAAAAAAAAAAAAAAFVuYXNzaWduZWQAgw4AAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAwH9TAAAAAAAFAAAABAAAALC/YRoAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAG4AdABoACAAcABvAHAALgBwAHAAcwAAAA==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAwACAAUwBoAGEAawBlAHIAcwAuAHAAcABzAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAA4AAAAAMFRVBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAABAGIMOAAAAAAAAAAAAAAAAOAAAAAAAAFVuYXNzaWduZWQA////////MHNGFQAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAAAwVFUGAAAAABCAUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAA4AAAAAMFRVBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAABAGIMOAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////MHNGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAAAgT1UGAAAAABCAUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAA4AAAAAMFRVBgAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAABAGIMOAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////MHNGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABgVFUGAAAAABCAUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAIFVVBgAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAwBBkVAAAAAKSgVb33fwAAQgAAAAAAAFVuYXNzaWduZWQAzAwAAAAAgFVVBgAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACAVVUGAAAAABCAUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[e2JhMDVjN2YzLTA3ZDItNGI4Ni04MTQ4LWE0MDRhM2JiNWQxNH0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGdFQGAAAAAAAAAAAAAABPZmYAdAAAAAA4dFQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABGcVQGAAAAAAAAAAAAAABPZmYAdAAAAAA4cVQGAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABWEfsUAAAAAAAAAAAAAABPZmYAdAAAAABIEfsUAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADW0PoUAAAAAAAAAAAAAABPZmYAdAAAAADI0PoUAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADm2PoUAAAAAAAAAAAAAABPZmYAdAAAAADY2PoUAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAADW9PoUAAAAAAAAAAAAAABPZmYAdAAAAADI9PoUAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2OHkOAAAAAAAAAAAAAABPZmYAdAAAAACoOHkOAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+            </node>
+            <node name="{b6d43475-d3ec-424b-ad5f-51655519e6b2}" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAAQAAAAAAAADwjYkOAAAAAMB/UwAAAAAAPhSJvfd/AADMKNsQAAAAACAo2xAAAAAAAAAAAAAAAFVuYXNzaWduZWQArBUAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAwH9TAAAAAAAFAAAABAAAAFDrpRUAAAAA]]></state>
+                <state name="Name" type="7" size="1"><![CDATA[AA==]]></state>
+                <state name="Volume" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAMzMzPzMzMz8zMzM/MzMzPwAAwMIAAEBBAAAAAAYAAAAlLjFmIGRCAAAqwf8AKsH/ACrB/wAqwP8AKsD/ACrA/w==]]></state>
+                <state name="Pan" type="0" size="76"><![CDATA[AAAAAAAAAAAAAQEAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAMhCAAAAAAAAAAAlLjJmAAAAAAAAAAD//////////0DhCqL8fwAABQAAAA==]]></state>
+                <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAQIW5FQAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAACQ3KwVAAAAAAAAAAAAAAAAOAAAAAAAAFVuYXNzaWduZWQA////////EMMGFQAAAAABAAAAAAAAAOAJZAQAAAAABQAAAAAAAABAhbkVAAAAABCAUwAAAAAA]]></state>
+                <state name="Solo" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAQIW5FQAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAAAA5awVAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////EMMGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACAqLkVAAAAABCAUwAAAAAA]]></state>
+                <state name="GUIOpen" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAQIW5FQAAAAAAAAAAAAAAAA8AAAAAAABPbgCJDgAAAACw5KwVAAAAAAAAAAAAAAAAOQAAAAAAAFVuYXNzaWduZWQA////////EMMGFQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAABwsrkVAAAAABCAUwAAAAAA]]></state>
+                <state name="MuteSoloSafe" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAYIRNDQAAAAAAAAAAAAAAAA8AAAAAAABPbgBVvfd/AAAghS4XAAAAAKSgVb33fwAAQgAAAAAAAFVuYXNzaWduZWQApRAAAAAAsI5NDQAAAAABAAAAAAAAAOTMpb33fwAABQAAAAAAAACwjk0NAAAAABCAUwAAAAAA]]></state>
+                <state name="NumDSPs" type="9" size="12"><![CDATA[BwAAAAAAAID///9/]]></state>
+                <state name="Instrument1" type="7" size="39"><![CDATA[ezg1YTZhNjUwLTViMDItNDZkNi05OWRiLTI4OTc0ZTIzMmJhNn0B]]></state>
+                <state name="Bypass1" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAACWD0ARAAAAAAAAAAAAAABPZmYAdAAAAACID0ARAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AQAAAAAAAADkzKW9938AAAEAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument2" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass2" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAWcLYJAAAAAAAAAAAAAABPZmYAdAAAAAAIcLYJAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AgAAAAAAAADkzKW9938AAAIAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument3" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass3" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAABG+F4LAAAAAAAAAAAAAABPZmYAdAAAAAA4+F4LAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////AwAAAAAAAADkzKW9938AAAMAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument4" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass4" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAWIMMHAAAAAAAAAAAAAABPZmYAdAAAAAAIIMMHAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BAAAAAAAAADkzKW9938AAAQAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument5" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass5" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGLdgHAAAAAAAAAAAAAABPZmYAdAAAAAD4LNgHAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BQAAAAAAAADkzKW9938AAAUAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument6" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass6" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAC2SHINAAAAAAAAAAAAAABPZmYAdAAAAACoSHINAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BgAAAAAAAADkzKW9938AAAYAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="Instrument7" type="7" size="1"><![CDATA[AQ==]]></state>
+                <state name="Bypass7" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAIE9uAAAAAAAACAAAAAAAAAAGgJgIAAAAAAAAAAAAAABPZmYAdAAAAAD4f5gIAAAAAOBgOnQAAAAAAAAAAAIAAFVuYXNzaWduZWQA////////BwAAAAAAAADkzKW9938AAAcAAAAAAAAA5Mylvfd/AAAAAAAAAAAAAAUAAAAAAAAA]]></state>
+                <state name="AUX5-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX5-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX4-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX3-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX2-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-1" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+                <state name="AUX1-2" type="0" size="76"><![CDATA[AwAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMhCAAAAAAAAAAAlLjBmJSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></state>
+            </node>
+        </node>
+        <node name="Session" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAYGlZBAAAAAAAo4wEAAAAANjvUwAAAAAAPhSJvfd/AACs4IwEAAAAAADgjAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAlgQAAAAAAAB9BAAAAAAAAAAAAAAAAA8AAAAAAAAA2O9TAAAAAAAFAAAABAAAALBGhwQAAAAA]]></state>
+        </node>
+        <node name="SessionFileManager" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAKBbWgQAAAAAANlYBAAAAADQOpcEAAAAAJD0UwAAAAAAPhSJvfd/AAA8uowEAAAAAJC5jAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAoFtaBAAAAAAAAAAAAAAAAA8AAAAAAAAAkPRTAAAAAAAFAAAABAAAADBHhwQAAAAA]]></state>
+            <state name="RegisteredFiles" type="4" size="29"><![CDATA[AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAGE=]]></state>
+            <node name="Audio" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAABiIpr33fwAAANlYBAAAAADg0HwEAAAAANjwUwAAAAAAPhSJvfd/AAAM24wEAAAAAGDajAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAA242NcwAAAAAAAAAAAAAAAA8AAAAAAAAA2PBTAAAAAAAFAAAABAAAAPBHhwQAAAAA]]></state>
+            </node>
+        </node>
+        <node name="Arranger" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGA5XQQAAAAAIAVeBAAAAAAAPpcEAAAAAMjkUwAAAAAAPhSJvfd/AAA8yYwEAAAAAJDIjAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAlgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAyORTAAAAAAAFAAAABAAAABBJhwQAAAAA]]></state>
+            <state name="DefaultClipHeight" type="13" size="8"><![CDATA[ZmZmZmZmAEA=]]></state>
+            <state name="CurrentBarWidth" type="13" size="8"><![CDATA[AAAAAAAAEEA=]]></state>
+            <state name="ContentX" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+            <state name="ContentY" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+            <state name="ZoomFactorX" type="13" size="8"><![CDATA[ZmZmZmZm5j8=]]></state>
+            <state name="ZoomFactorY" type="13" size="8"><![CDATA[AAAAAAAA8D8=]]></state>
+            <node name="Clips" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAIAVeBAAAAADgvnwEAAAAAKjoUwAAAAAAPhSJvfd/AADcpJgEAAAAADCkmAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAlwQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAqOhTAAAAAAAFAAAABAAAALBMhwQAAAAA]]></state>
+                <node name="Preview" type="DSPClip">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAA//////////9wUJkEAAAAANjVUwAAAAAAPhSJvfd/AABMrZgEAAAAAKCsmAQAAAAAAAAAAAAAAFVuYXNzaWduZWQAgAQAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAA+NRTAAAAAAAFAAAABAAAAOBPhwQAAAAA]]></state>
+                    <state name="Name" type="7" size="5"><![CDATA[Q2xpcAA=]]></state>
+                    <state name="ParentID" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="LocalXPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="LoopedLength" type="13" size="8"><![CDATA[AAAAAAAAEEA=]]></state>
+                    <state name="Length" type="13" size="8"><![CDATA[AAAAAAAAEEA=]]></state>
+                    <state name="LocalYPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="RowIdx" type="9" size="12"><![CDATA[AAAAAAAAAID///9/]]></state>
+                    <state name="Height" type="13" size="8"><![CDATA[ZmZmZmZmAEA=]]></state>
+                    <state name="PlayPositionOffset" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PlayCued" type="1" size="144"><![CDATA[BQAAAAAAAAAAAQEAAAD/AADMgAQAAAAAwNRTAAAAAAAAAAAAAAAAAA8AAAAAAABQbGF5IEN1ZWQAtoAEAAAAAKSgVb33fwAAKAAAAAAAAFVuYXNzaWduZWQAlwQAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA//////////+ANZcEAAAAABDWUwAAAAAA]]></state>
+                    <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAwNRTAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAABAtoAEAAAAAKSgVb33fwAAJwAAAAAAAFVuYXNzaWduZWQAlwQAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA//////////+QNJcEAAAAABDWUwAAAAAA]]></state>
+                    <state name="StartBeat" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="EndBeat" type="13" size="8"><![CDATA[AAAAAAAAEEA=]]></state>
+                    <state name="InstrumentId" type="7" size="39"><![CDATA[ezU3MTZlYzdhLTRlMzYtNDA1Yi1hMTA1LTQ0ODM5NWQzZmFkZn0B]]></state>
+                    <state name="Events" type="22" size="4"><![CDATA[AAAAAA==]]></state>
+                    <state name="SnapLevel" type="4" size="208"><![CDATA[AAAAAAAAAAAAAQAADwAAAAAAAAAAAAAAAAAAAFgAAABdAAAAZwAAAGsAAABvAAAAcwAAAHcAAAB8AAAAgQAAAIYAAACQAAAAnAAAAKgAAAC1AAAAwgAAAEFVVE8AU0VQQVJBVE9SADEvMQAxLzIAMS80ADEvOAAxLzE2ADEvMzIAMS82NABTRVBBUkFUT1IAMS80IFRSSVBMRVQAMS84IFRSSVBMRVQAMS8xNiBUUklQTEVUADEvMzIgVFJJUExFVAAxLzY0IFRSSVBMRVQAAA==]]></state>
+                    <state name="ZoomFactorX" type="13" size="8"><![CDATA[AAAAAAAA+D8=]]></state>
+                    <state name="ZoomFactorY" type="13" size="8"><![CDATA[AAAAAAAA8D8=]]></state>
+                    <state name="TripletMode" type="9" size="12"><![CDATA[AAAAAAAAAID///9/]]></state>
+                    <state name="PianoRollContentX" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PianoRollContentY" type="13" size="8"><![CDATA[AAAAAAAARUA=]]></state>
+                    <state name="PushClips" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/AADslwQAAAAAkN5TAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAADg85cEAAAAAKSgVb33fwAAMAAAAAAAAFVuYXNzaWduZWQAmQQAAAAAW9iIvfd/AAAAAAAAAAAAAAAAAAAAAAAA4L58BAAAAACI5FMAAAAAAP////8AAAAA]]></state>
+                </node>
+                <node name="{82490a5d-703e-4938-9e00-aa8dbb2f86c0}" type="DSPClip">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAA//////////+AwV0VAAAAAFhmUwAAAAAAPhSJvfd/AACMwtsQAAAAAODB2xAAAAAAAAAAAAAAAFVuYXNzaWduZWQAGRUAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAFAAAABAAAADDYYRoAAAAA]]></state>
+                    <state name="Name" type="7" size="10"><![CDATA[UG9wIEtpdCBBAA==]]></state>
+                    <state name="ParentID" type="7" size="39"><![CDATA[e2RhZjk2ZWQxLTYyMWQtNDI1Mi1iM2IwLTcwOWQ0Yjg3MTUxY30A]]></state>
+                    <state name="LocalXPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="LoopedLength" type="13" size="8"><![CDATA[AAAAAAAAMEA=]]></state>
+                    <state name="Length" type="13" size="8"><![CDATA[AAAAAAAAMEA=]]></state>
+                    <state name="LocalYPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="RowIdx" type="9" size="12"><![CDATA[AgAAAAAAAID///9/]]></state>
+                    <state name="Height" type="13" size="8"><![CDATA[ZmZmZmZmAEA=]]></state>
+                    <state name="PlayPositionOffset" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PlayCued" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/AADMSxUAAAAAQGVTAAAAAAAAAAAAAAAAAA8AAAAAAABQbGF5IEN1ZWQABRkVAAAAAKSgVb33fwAARwAAAAAAAFVuYXNzaWduZWQAPxEAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA//////////8QVT8RAAAAAJBmUwAAAAAA]]></state>
+                    <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABUAAAAAQGVTAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAADg9BgVAAAAAKSgVb33fwAARgAAAAAAAFVuYXNzaWduZWQAPxEAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA//////////8gVz8RAAAAAJBmUwAAAAAA]]></state>
+                    <state name="StartBeat" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="EndBeat" type="13" size="8"><![CDATA[AAAAAAAAMEA=]]></state>
+                    <state name="InstrumentId" type="7" size="39"><![CDATA[e2JhMDVjN2YzLTA3ZDItNGI4Ni04MTQ4LWE0MDRhM2JiNWQxNH0B]]></state>
+                    <state name="Events" type="22" size="196"><![CDATA[AAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD4PyQAAAB5AAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAARAJAAAAHgAAAAAAAAABAAAAAAAAAAAABpAAAAAAAAAHEAkAAAAeAAAAAAAAAAFAAAAAAAAAAAAHkAAAAAAAAAgQCQAAAB4AAAAAAAAAAgAAAAAAAAAAIAnQAAAAAAAgChAJAAAAHgAAAAAAAAACQAAAAAAAAAAgClAAAAAAACAKkAkAAAAeAAAAA==]]></state>
+                    <state name="SnapLevel" type="4" size="208"><![CDATA[AAAAAAAAAAAAAQAADwAAAAAAAAAAAAAAAAAAAFgAAABdAAAAZwAAAGsAAABvAAAAcwAAAHcAAAB8AAAAgQAAAIYAAACQAAAAnAAAAKgAAAC1AAAAwgAAAEFVVE8AU0VQQVJBVE9SADEvMQAxLzIAMS80ADEvOAAxLzE2ADEvMzIAMS82NABTRVBBUkFUT1IAMS80IFRSSVBMRVQAMS84IFRSSVBMRVQAMS8xNiBUUklQTEVUADEvMzIgVFJJUExFVAAxLzY0IFRSSVBMRVQAAA==]]></state>
+                    <state name="ZoomFactorX" type="13" size="8"><![CDATA[AAAAAAAA+D8=]]></state>
+                    <state name="ZoomFactorY" type="13" size="8"><![CDATA[AAAAAAAA8D8=]]></state>
+                    <state name="TripletMode" type="9" size="12"><![CDATA[AAAAAAAAAID///9/]]></state>
+                    <state name="PianoRollContentX" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PianoRollContentY" type="13" size="8"><![CDATA[5DiO4ziOU0A=]]></state>
+                    <state name="PushClips" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/AADfSxUAAAAAEG9TAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAADA2RgVAAAAAKSgVb33fwAATwAAAAAAAFVuYXNzaWduZWQAXRUAAAAAW9iIvfd/AABQPpcEAAAAAAAAAAAAAAAA4L58BAAAAADQdFMAAAAAAP////8AAAAA]]></state>
+                </node>
+                <node name="{332e61c4-e134-4c7d-a0c2-5a45b0f1e68d}" type="DSPClip">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAA//////////+AzF0VAAAAAFhmUwAAAAAAPhSJvfd/AADMnZsXAAAAACCdmxcAAAAAAAAAAAAAAFVuYXNzaWduZWQAcRcAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAFAAAABAAAANAIphUAAAAA]]></state>
+                    <state name="Name" type="7" size="8"><![CDATA[TWFyaW1iYQA=]]></state>
+                    <state name="ParentID" type="7" size="39"><![CDATA[e2RhZjk2ZWQxLTYyMWQtNDI1Mi1iM2IwLTcwOWQ0Yjg3MTUxY30A]]></state>
+                    <state name="LocalXPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="LoopedLength" type="13" size="8"><![CDATA[AAAAAAAAKEA=]]></state>
+                    <state name="Length" type="13" size="8"><![CDATA[AAAAAAAAKEA=]]></state>
+                    <state name="LocalYPosition" type="13" size="8"><![CDATA[ZmZmZmZmAEA=]]></state>
+                    <state name="RowIdx" type="9" size="12"><![CDATA[BAAAAAAAAID///9/]]></state>
+                    <state name="Height" type="13" size="8"><![CDATA[ZmZmZmZmAEA=]]></state>
+                    <state name="PlayPositionOffset" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PlayCued" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/AACGBhgAAAAAQGVTAAAAAAAAAAAAAAAAAA8AAAAAAABQbGF5IEN1ZWQAxXEXAAAAAKSgVb33fwAARwAAAAAAAFVuYXNzaWduZWQAShUAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA///////////A3rwMAAAAAJBmUwAAAAAA]]></state>
+                    <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmABgAAAAAQGVTAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAQvXEXAAAAAKSgVb33fwAARgAAAAAAAFVuYXNzaWduZWQAShUAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA///////////g2bwMAAAAAJBmUwAAAAAA]]></state>
+                    <state name="StartBeat" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="EndBeat" type="13" size="8"><![CDATA[AAAAAAAAKEA=]]></state>
+                    <state name="InstrumentId" type="7" size="39"><![CDATA[ezU3MTZlYzdhLTRlMzYtNDA1Yi1hMTA1LTQ0ODM5NWQzZmFkZn0B]]></state>
+                    <state name="Events" type="22" size="516"><![CDATA[AAAAAAAAAAAMAAAA0YwqERHl9T/9dN7QeD77P0oAAABkAAAAAAAAAA0AAACofb7yYUP/P9Q+X/mwoQFASgAAAGQAAAAAAAAAEgAAACXf0qVCqgJAAAAAAAAABEBKAAAAZAAAAAAAAAATAAAA6/76Eh2ZB0Dr/voSHZkIQEoAAABkAAAAAAAAABQAAAC1nBmiT48KQLWcGaJPjwtASgAAAGQAAAAAAAAAFQAAABDRoqswiQ1AENGiqzCJDkBKAAAAZAAAAAAAAAAXAAAAAAAAAACAEkAAAAAAAAATQEgAAABkAAAAAAAAABgAAAAAAAAAAAARQAAAAAAAgBFATAAAAGQAAAAAAAAAGgAAAAAAAAAAgBtAlmCHuuFIHEBKAAAAZAAAAAAAAAAbAAAAltXT+c66HUBe8x82aooeQEoAAABkAAAAAAAAAB0AAACQcVcV7EAfQJBxVxXswB9ASgAAAGQAAAAAAAAAHgAAAAAAAAAAwCBAAAAAAAAAIUBKAAAAZAAAAAAAAAAkAAAAAAAAAACAIUAAAAAAAMAhQEoAAABkAAAAAAAAACcAAAAAAAAAAEAiQAAAAAAAgCJASgAAAGQAAAAAAAAAKgAAAAAAAAAAQCNAAAAAAACAI0BFAAAAZAAAAAAAAAArAAAA2y1YZ+wPJEDbLVhn7E8kQEUAAABkAAAA]]></state>
+                    <state name="SnapLevel" type="4" size="208"><![CDATA[AAAAAAAAAAAAAQAADwAAAAAAAAAAAAAAAAAAAFgAAABdAAAAZwAAAGsAAABvAAAAcwAAAHcAAAB8AAAAgQAAAIYAAACQAAAAnAAAAKgAAAC1AAAAwgAAAEFVVE8AU0VQQVJBVE9SADEvMQAxLzIAMS80ADEvOAAxLzE2ADEvMzIAMS82NABTRVBBUkFUT1IAMS80IFRSSVBMRVQAMS84IFRSSVBMRVQAMS8xNiBUUklQTEVUADEvMzIgVFJJUExFVAAxLzY0IFRSSVBMRVQAAA==]]></state>
+                    <state name="ZoomFactorX" type="13" size="8"><![CDATA[PkLE1Rq5CUA=]]></state>
+                    <state name="ZoomFactorY" type="13" size="8"><![CDATA[AAAAAAAA8D8=]]></state>
+                    <state name="TripletMode" type="9" size="12"><![CDATA[AAAAAAAAAID///9/]]></state>
+                    <state name="PianoRollContentX" type="13" size="8"><![CDATA[AAAAAAAAAIA=]]></state>
+                    <state name="PianoRollContentY" type="13" size="8"><![CDATA[chzHcRxHREA=]]></state>
+                    <state name="PushClips" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/AACpBhgAAAAAEG9TAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAwp3EXAAAAAKSgVb33fwAATwAAAAAAAFVuYXNzaWduZWQAXRUAAAAAW9iIvfd/AABQPpcEAAAAAAAAAAAAAAAA4L58BAAAAADQdFMAAAAAAP////8AAAAA]]></state>
+                </node>
+                <node name="{daf96ed1-621d-4252-b3b0-709d4b87151c}" type="MultiClip">
+                    <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAA///////////wPxsVAAAAAJhfUwAAAAAAPhSJvfd/AACMG5oXAAAAAOAamhcAAAAAAAAAAAAAAFVuYXNzaWduZWQAbxUAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAFAAAABAAAAMDrbhUAAAAA]]></state>
+                    <state name="Name" type="7" size="11"><![CDATA[TXVsdGkgQ2xpcAA=]]></state>
+                    <state name="ParentID" type="7" size="1"><![CDATA[AA==]]></state>
+                    <state name="LocalXPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="LoopedLength" type="13" size="8"><![CDATA[AAAAAAAAMEA=]]></state>
+                    <state name="Length" type="13" size="8"><![CDATA[AAAAAAAAMEA=]]></state>
+                    <state name="LocalYPosition" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="RowIdx" type="9" size="12"><![CDATA[AAAAAAAAAID///9/]]></state>
+                    <state name="Height" type="13" size="8"><![CDATA[mZmZmZmZGEA=]]></state>
+                    <state name="PlayPositionOffset" type="13" size="8"><![CDATA[AAAAAAAAAAA=]]></state>
+                    <state name="PlayCued" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQD/AAAgPQoAAAAAgF5TAAAAAAAAAAAAAAAAAA8AAAAAAABQbGF5IEN1ZWQAmm8VAAAAAKSgVb33fwAARwAAAAAAAFVuYXNzaWduZWQAVAsAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA///////////gf1QLAAAAANBfUwAAAAAA]]></state>
+                    <state name="Mute" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAoAAAAAgF5TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAglm8VAAAAAKSgVb33fwAARgAAAAAAAFVuYXNzaWduZWQAVAsAAAAAW9iIvfd/AADgvnwEAAAAAAAAAAAAAAAA//////////8wh1QLAAAAANBfUwAAAAAA]]></state>
+                </node>
+            </node>
+            <state name="EditClipProxy" type="7" size="8"><![CDATA[UHJldmlldwA=]]></state>
+            <state name="EditClip" type="7" size="8"><![CDATA[UHJldmlldwA=]]></state>
+            <state name="SelectedClip" type="7" size="8"><![CDATA[UHJldmlldwA=]]></state>
+            <state name="Metronome" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAAOORTAAAAAAAAAAAAAAAAAA8AAAAAAABPbgAAAAAAAADgC5cEAAAAAEDcmAQAAAAAHgAAAAAAAFVuYXNzaWduZWQAUwAAAAAABWWJvfd/AAAAAAAAAAAAAAOepb33fwAAIAVeBAAAAABYxKa9938AAIDlUwAAAAAA]]></state>
+            <state name="WaitForBar" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAA/v////////8AAAAAAAAAAA8AAAAAAABPbgCXBAAAAACArIAEAAAAAKSgVb33fwAAIwAAAAAAAFVuYXNzaWduZWQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOjMpb33fwAAAAAAAAAAAAAgBV4EAAAAAAAAAAAAAAAA]]></state>
+        </node>
+        <node name="MIDIProcessor" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAKBbWgQAAAAA0F1aBAAAAACw5JkEAAAAAGj2UwAAAAAAPhSJvfd/AAB8qpkEAAAAANCpmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAlgQAAAAAYEyHBAAAAAAAAAAAAAAAAA8AAAAAAAAAaPZTAAAAAAAFAAAABAAAALBYhwQAAAAA]]></state>
+            <node name="mapper" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAgNRGBAAAAACAGUsEAAAAAKDyUwAAAAAAPhSJvfd/AACcqJkEAAAAAPCnmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAmgQAAAAAAACzAwAAAAAAAAAAAAAAAA8AAAAAAAAAoPJTAAAAAAAFAAAABAAAAOBYhwQAAAAA]]></state>
+                <state name="state_{ea64bdd5-0a28-439d-a77f-4af066b8e58b}-Grand Piano" type="22" size="3778"><![CDATA[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AK4GAADCBgAA2gYAAO8GAAAFBwAAGAcAACcHAABABwAAUQcAAGAHAABvBwAAgAcAAJQHAACnBwAAtgcAAMcHAADYBwAA6QcAAPgHAAAGCAAAFggAACkIAABBYyBQaWFubyAwNjggQmFsbGFkIDEAQWMgUGlhbm8gMDc1IFB1cnBsZSBQb3AAQWMgUGlhbm8gMDgwIENsYXNzaWNhbCAxAEFjIFBpYW5vIDA4MCBTbG93IEFtYmllbnQAQWMgUGlhbm8gMDgwIFNvZnQgUG9wAEFjIFBpYW5vIDA4MCBVcmJhbiBUcmlwbGV0cwBBYyBQaWFubyAwOTAgU29mdCBSb2NrIDEAQWMgUGlhbm8gMDkwIFNvZnQgUm9jayAyAEFjIFBpYW5vIDEwMCBFYXN5IFBvcABBYyBQaWFubyAxMDAgTWVkIEFtYmllbnQAQWMgUGlhbm8gMTAwIFJvbWFudGljAEFjIFBpYW5vIDExMCBDbGFzc2ljAEFjIFBpYW5vIDExMCBGYXN0IEFtYmllbnQAQWMgUGlhbm8gMTEwIE1vZGVybiBQb3AAQWMgUGlhbm8gMTEwIFJlbGF4aW5nAEFjIFBpYW5vIDExMCBSb2NrIE1vZGVybgBBYyBQaWFubyAxMjAgRWFzeSBDbGFzc2ljcwBBYyBQaWFubyAxMjAgUG9wIFJvY2sAQWMgUGlhbm8gMTIwIFByZXR0eSBQb3AAQWMgUGlhbm8gMTIwIFJoeXRobQBBYyBQaWFubyAxMjAgUm9jayBCYWNraW5nAEFjIFBpYW5vIDEyMCBSb2NrIEJhc2ljIDEAQWMgUGlhbm8gMTIwIFJvY2sgUmh5dGhtaWMAQWMgUGlhbm8gMTIwIFJvY2sgU2h1ZmZsZQBBYyBQaWFubyAxMjAgUm9jawBBYyBQaWFubyAxMjAgU29mdCBKYXp6AEFjIFBpYW5vIDEyMCBTb2Z0IFJvY2sAQWMgUGlhbm8gMTIwIFRyaXBsZXQAQWMgUGlhbm8gMTQwIEZhc3QgUG9wAENlbGVzdGUgMTAwIENsYXNzaWMAQ2VsZXN0ZSAxMjAgUG9wAENodXJjaCBPcmdhbiAwOTAgRHJhbWF0aWMAQ2h1cmNoIE9yZ2FuIDEwMCBDbGFzc2ljAENodXJjaCBPcmdhbiAxMTAgQnJpZ2h0AENodXJjaCBPcmdhbiAxMjAgQnVzeQBDbGF2IDA5MCBGdW5rIFRyaXBsZXQAQ2xhdiAxMDAgRnVuayBGdXNpb24AQ2xhdiAxMDUgU291bABDbGF2IDExMCBGdW5reQBDbGF2IDEyMCBDbGFzc2ljAENsYXYgMTIwIERpc2NvAEVsIFBpYW5vIDA2OCBCYWxsYWQARWwgUGlhbm8gMDgwIFVyYmFuIFRyaXBsZXRzAEVsIFBpYW5vIDA4NSBTb3VsIEJhbGxhZABFbCBQaWFubyAwODUgVXJiYW4ARWwgUGlhbm8gMDkwIENoaWxsIE91dCAxAEVsIFBpYW5vIDA5MiBGdW5rAEVsIFBpYW5vIDEwMCBDaGlsbCBPdXQgMgBFbCBQaWFubyAxMDAgRWFzeQBFbCBQaWFubyAxMDAgT2xkIFNjaG9vbCBSbkIARWwgUGlhbm8gMTAwIFBvcABFbCBQaWFubyAxMDcgQWNpZCBKYXp6AEVsIFBpYW5vIDExMCBBbWJpZW50AEVsIFBpYW5vIDExMCBTb3VsAEVsIFBpYW5vIDEyMCBCYWxsYWQARWwgUGlhbm8gMTIwIEJhc2ljAEVsIFBpYW5vIDEzMCBQb3AASGFybW9uaXVtIDA5MCBQb3AASGFybW9uaXVtIDExMCBGb2xrAEhhcm1vbml1bSAxMjAgQ2xhc3NpYwBIYXJwc2ljaG9yZCAwOTAgQmFyb3F1ZQBIYXJwc2ljaG9yZCAxMDAgUG9wAEhhcnBzaWNob3JkIDEyMCBDbGFzc2ljAEhvbmt5IFRvbmsgMTAwIEJsdWVzAEhvbmt5IFRvbmsgMTIwIEJvb2dpZQBIb25reSBUb25rIDE1MCBSYWcAT3JnYW4gMDgwIEphenoAT3JnYW4gMDgwIFVyYmFuIFRyaXBsZXRzAE9yZ2FuIDA5MCBCYWxsYWQAT3JnYW4gMTAwIEphenoAT3JnYW4gMTAwIFNvdWwAT3JnYW4gMTEwIEdlbnRsZQBPcmdhbiAxMTAgUHJvZyBSb2NrAE9yZ2FuIDEyMCA3MHMgUm9jawBPcmdhbiAxMjAgRnVuawBPcmdhbiAxMjAgUHJhaXNlAE9yZ2FuIDEyMCBSb2NrIDEAT3JnYW4gMTIwIFJvY2sgMgBPcmdhbiAxMjAgUm9jawBPcmdhbiAxMzAgUG9wAFBpYW5vIDEyNCBEYW5jZQBUb3kgUGlhbm8gMTAwIEtpZHMAVG95IFBpYW5vIDEyMCBQb3AA9yYAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0ludGVuc2l0eRYAAAAXAAAAAAAAPwAAAD8AAAAAAgAAADAlAPf//y8AAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0N1cnJlbnRQYXR0ZXJuTmFtZQoAAAAHAAAAUGF0dGVybiAxAA==]]></state>
+                <state name="state_Preview-Vibraphone" type="22" size="1800"><![CDATA[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]]></state>
+                <state name="state_{6673422e-60e1-4c47-8fb9-ff08b79c0563}-Vibraphone" type="22" size="1800"><![CDATA[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]]></state>
+                <state name="state_Preview-Marimba" type="22" size="1800"><![CDATA[AAAAADUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0N1cnJlbnRUcmFuc3Bvc2l0aW9uTmFtZQIAAAAHAAAAQwAiAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9TcGVlZDwAAAAEAAAAAAAAAAAAAAAAAQAAAwAAAAEAAAABAAAAAAAAACgAAAAtAAAANAAAAEhhbGYATm9ybWFsAERvdWJsZQAAJgAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvSXNDbG9uaW5nkAAAAAEAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAACw5JkEAAAAAEBomwQAAAAAgO9TAAAAAAA+FIm9938AAAyTmQQAAAAAYJKZBAAAAAAAAAAAAAAAVW5hc3NpZ25lZACaBAAAAABQAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAyAAAAAAAAAAUAAAAEAAAAcFaHBAAAAAAfAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1Byb2Nlc3NvcjoAAAAEAAAAAAAAAAAAAAAAAQAAAwAAAAEAAAABAAAAAAAAACgAAAAuAAAANQAAAENob3JkAFBocmFzZQBBcnAAaSwAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL1NjYWxlQ29ycmVjdGlvbpAAAAABAAAAAAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAASO1TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAwl5oEAAAAAJSNjXMAAAAAJQAAAAAAAFVuYXNzaWduZWQApAQAAAAAKQAAAAAAAADozKW9938AAIDvUwAAAAAAAAAAAAAAAADgHksEAAAAAEDrUwAAAAAAMAAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvQ3VycmVudFBhdHRlcm5JbmRleAwAAAAJAAAAAAAAAAAAAID///9/LQAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvVmVsb2NpdHlSZXNwb25zZSwAAAAEAAAA/////wAAAAAAAQAAAgAAAAEAAAABAAAAAAAAACQAAAAoAAAAT2ZmAE9uAAAYAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL09ukAAAAAEAAAAAAAAAAAAAAAABAQAAAABPZmYAAAAAAADYzMa9938AAHDDxr33fwAAEAAAAAAAAE9uAIwEAAAAAOAgt733fwAAUPJTAAAAAAAAAAAAAAAAVW5hc3NpZ25lZACMBAAAAAAAAAAAAAAAANjMxr33fwAAEAAAAAAAAABww8a9938AAAEAAAD3fwAA8KKMBAAAAAAbAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL0xhdGNokAAAAAEAAAAAAAAAAAAAAAABAQAAAP9PZmYABAAAAADYzMa9938AAAAAAAAAAAAADwAAAAAAAE9uAIwEAAAAAJBZlgQAAAAAUPJTAAAAAAAYAAAAAAAAVW5hc3NpZ25lZACMBAAAAAAAAAAAAAAAAOjMpb33fwAAaPZTAAAAAAAAAAAAAAAAALDkmQQAAAAAUPJTAAAAAAAlAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9IdW1hbml6ZRYAAAAXAAAAAAAAAAAAAAAAAAAAAgAAADAlAGcAACUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0NhdGVnb3J5mAAAAAQAAAD/////AAAAAAABAAAKAAAAAAAAAAUAAAAAAAAARAAAAEsAAABRAAAAVwAAAF8AAABkAAAAdwAAAH8AAACGAAAAjQAAAEJhc3NlcwBCcmFzcwBEcnVtcwBHdWl0YXJzAEtleXMAUGl0Y2hlZCBQZXJjdXNzaW9uAFN0cmluZ3MAU3ludGhzAFZvaWNlcwBXb29kd2luZHMAACUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL1BhdHRlcm5zggAAAAQAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAAAALAAAAD4AAABTAAAAZwAAAE1hcmltYmEgMTAwIFdvcmxkAFZpYnJhcGhvbmUgMDgwIENoaWxsAFZpYnJhcGhvbmUgMDg3IE1vb2QAVmlicmFwaG9uZSAxMDAgSmF6eiBTd2luZwAAJgAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvSW50ZW5zaXR5FgAAABcAAAAAAAA/AAAAPwAAAAACAAAAMCUAEAAALwAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvQ3VycmVudFBhdHRlcm5OYW1lCgAAAAcAAABQYXR0ZXJuIDEA]]></state>
+                <state name="state_{5716ec7a-4e36-405b-a105-448395d3fadf}-Marimba" type="22" size="1800"><![CDATA[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]]></state>
+                <state name="state_Preview-Pop Kit A" type="22" size="4696"><![CDATA[AAAAADUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0N1cnJlbnRUcmFuc3Bvc2l0aW9uTmFtZQIAAAAHAAAAQwAiAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9TcGVlZDwAAAAEAAAAAAAAAAAAAAAAAQAAAwAAAAEAAAABAAAAAAAAACgAAAAtAAAANAAAAEhhbGYATm9ybWFsAERvdWJsZQAAJgAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvSXNDbG9uaW5nkAAAAAEAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAACw5JkEAAAAAEBomwQAAAAAgO9TAAAAAAA+FIm9938AAAyTmQQAAAAAYJKZBAAAAAAAAAAAAAAAVW5hc3NpZ25lZACaBAAAAABQAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAyAAAAAAAAAAUAAAAEAAAAcFaHBAAAAAAfAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1Byb2Nlc3NvcjoAAAAEAAAA/////wAAAAAAAAAAAwAAAAEAAAABAAAAAAAAACgAAAAuAAAANQAAAENob3JkAFBocmFzZQBBcnAAaSwAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL1NjYWxlQ29ycmVjdGlvbpAAAAABAAAAAAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAASO1TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAwl5oEAAAAAJSNjXMAAAAAJQAAAAAAAFVuYXNzaWduZWQApAQAAAAAKQAAAAAAAADozKW9938AAIDvUwAAAAAAAAAAAAAAAADgHksEAAAAAEDrUwAAAAAAMAAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvQ3VycmVudFBhdHRlcm5JbmRleAwAAAAJAAAAAAAAAAAAAID///9/LQAAAC9DbGllbnQvTUlESVByb2Nlc3Nvci9QbGF5ZXIvVmVsb2NpdHlSZXNwb25zZSwAAAAEAAAA/////wAAAAAAAQAAAgAAAAEAAAAAAAAAAAAAACQAAAAoAAAAT2ZmAE9uAAAYAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL09ukAAAAAEAAAAAAAAAAAAAAAABAQAAAABPZmYAAAAAAADYzMa9938AAHDDxr33fwAAEAAAAAAAAE9uAIwEAAAAAOAgt733fwAAUPJTAAAAAAAAAAAAAAAAVW5hc3NpZ25lZACMBAAAAAAAAAAAAAAAANjMxr33fwAAEAAAAAAAAABww8a9938AAAEAAAD3fwAA8KKMBAAAAAAbAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL0xhdGNokAAAAAEAAAAAAAAAAAAAAAABAQAAAP9PZmYABAAAAADYzMa9938AAAAAAAAAAAAADwAAAAAAAE9uAIwEAAAAAJBZlgQAAAAAUPJTAAAAAAAYAAAAAAAAVW5hc3NpZ25lZACMBAAAAAAAAAAAAAAAAOjMpb33fwAAaPZTAAAAAAAAAAAAAAAAALDkmQQAAAAAUPJTAAAAAAAlAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9IdW1hbml6ZRYAAAAXAAAAAAAAAAAAAAAAAAAAAgAAADAlAAQAACUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0NhdGVnb3J5mAAAAAQAAAD/////AAAAAAABAAAKAAAAAAAAAAIAAAAAAAAARAAAAEsAAABRAAAAVwAAAF8AAABkAAAAdwAAAH8AAACGAAAAjQAAAEJhc3NlcwBCcmFzcwBEcnVtcwBHdWl0YXJzAEtleXMAUGl0Y2hlZCBQZXJjdXNzaW9uAFN0cmluZ3MAU3ludGhzAFZvaWNlcwBXb29kd2luZHMAACUAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL1BhdHRlcm5z0gsAAAQAAAAAAAAAAAAAAAABAACEAAAAAAAAAEgAAAAAAAAALAIAAEMCAABbAgAAcQIAAIUCAACfAgAAsAIAAMECAADVAgAA6gIAAP0CAAAQAwAAIQMAADIDAABEAwAAVwMAAGoDAAB7AwAAjwMAAKEDAACuAwAAvgMAAM0DAADaAwAA5wMAAPUDAAACBAAADwQAABsEAAAnBAAAQgQAAFsEAABwBAAAhwQAAJ4EAAC1BAAAyAQAANwEAADvBAAAAQUAABUFAAApBQAAOwUAAE8FAABjBQAAdwUAAIsFAACaBQAAqQUAALwFAADLBQAA4AUAAPsFAAAQBgAAKAYAAD8GAABXBgAAcQYAAIYGAACbBgAAqQYAALUGAADCBgAA0AYAAN4GAADsBgAA+gYAAAYHAAAXBwAAJwcAADgHAABLBwAAYAcAAHAHAACABwAAkwcAAKMHAAC2BwAAxwcAANcHAADoBwAA+wcAAAwIAAAiCAAAOAgAAEwIAABZCAAAawgAAHgIAACKCAAAmwgAAKgIAAC0CAAAwwgAANIIAADfCAAA9QgAAAoJAAAiCQAANQkAAEkJAABeCQAAcgkAAIAJAACRCQAAnwkAALMJAADDCQAA0gkAAOIJAAD3CQAADQoAACMKAAA3CgAASgoAAF8KAAB1CgAAigoAAKAKAACyCgAAyAoAAN4KAAD0CgAACgsAABsLAAAxCwAASgsAAGMLAAB5CwAAkgsAAKYLAAC7CwAARGFuY2UgQSAxMjUgNCBPbiBGbG9vcgBEYW5jZSBBIDEyNSBTdHJhaWdodCBVcABEYW5jZSBBIDEyNSBTeW50aCBQb3AARGFuY2UgQSAxMjYgSG91c2UgMgBEYW5jZSBCIDEyNSBFbGVjdHJvIFN3aW5nAERhbmNlIEIgMTI1IEhhcmQARGFuY2UgQiAxMjUgUHJvZwBEYW5jZSBCIDEyNiBPZmZiZWF0AERhbmNlIEIgMTQwIEZhc3QgUm5CAER1YnN0ZXAgMTEwIFJlYXNvbgBEdWJzdGVwIDExNyBMaXphcmQARHVic3RlcCAxMzUgSGF6ZQBEdWJzdGVwIDEzOCBMaW5lAER1YnN0ZXAgMTQwIFNjYXJ5AER1YnN0ZXAgMTQwIFdvbmRlcgBEdWJzdGVwIDE0MiBNb25zdGEARHVic3RlcCAxNDUgRG9wZQBEdWJzdGVwIDE0NiBQdXNoIEVtAER1YnN0ZXAgMTQ3IEhlYXZ5AEVETSAxMjAgUm9hcgBFRE0gMTI1IEdsb3dpbmcARURNIDEyNyBBbnRoZW0ARURNIDEyNyBHYW5nAEVETSAxMzAgQ29yZQBFRE0gMTMwIFBhcnR5AEVETSAxMzIgRHVjawBFRE0gMTMyIEtpbmcARURNIDEzNSBCaXQARURNIDEzOCBEdWIARWxlY3RybyBCIDEwMCBNb2Rlcm4gVXJiYW4ARWxlY3RybyBCIDEzMCBUZWNoIEhvdXNlAEdhcmFnZSAwNzAgU2xvdyBGdW5rAEdhcmFnZSAwNzUgQmlnIE4gTG9vc2UAR2FyYWdlIDA4MCBVcmJhbiBTd2luZwBHYXJhZ2UgMTc1IExpdmUgSnVuZ2xlAEhpcCBIb3AgMDY4IFNsb3cgMQBIaXAgSG9wIDA3NSBGdW5reSAzAEhpcCBIb3AgMDc5IFNsb3cgMgBIaXAgSG9wIDA4MCBNaWQgMQBIaXAgSG9wIDA4NSBGdW5reSA0AEhpcCBIb3AgMDg4IEZ1bmt5IDUASGlwIEhvcCAwODkgTWlkIDIASGlwIEhvcCAwOTAgRnVua3kgMQBIaXAgSG9wIDA5OSBGdW5reSAyAEhpcCBIb3AgMDk5IEZ1bmt5IDYASmF6eiAwNjMgUG9wIEJhbGxhZABKYXp6IDA5NSBGdW5reQBKYXp6IDExMCBTYW1iYQBKYXp6IDEyMCBBY2lkIEphenoASmF6eiAxMzAgU3dpbmcAUGVyY3Vzc2lvbiAwODAgTGF0aW4AUGVyY3Vzc2lvbiAwOTAgQ29uZ2EgU3dpbmcAUGVyY3Vzc2lvbiAxMDAgQm9zc2EAUGVyY3Vzc2lvbiAxMDAgU2hhaytUcmkAUGVyY3Vzc2lvbiAxMDAgU2hha2VycwBQZXJjdXNzaW9uIDEyMCBDb25nYXMgMgBQZXJjdXNzaW9uIDEyMCBFbGVjdHJvbmljAFBlcmN1c3Npb24gMTIwIFNhbWJhAFBlcmN1c3Npb24gMTIwIFNtYWxsAFBvcCAxMDAgTWFnaWMAUG9wIDExNSBCaWcAUG9wIDExOSBQdW1wAFBvcCAxMjAgQ3JhenkAUG9wIDEyMiBSb290cwBQb3AgMTI4IERhbmNlAFBvcCAxMjggUGh1bmsAUG9wIDEzMCBKYW0AUG9wIDEzMiBVcCBUZW1wbwBQb3AgMTM1IE5hdWdodHkAUG9wIEEgMDY1IFJlZ2dhZQBQb3AgQSAwOTAgUG9wIFJvY2sAUG9wIEEgMDk1IFBvcCBSZWdnYWUAUG9wIEEgMTAwIFBvcCAxAFBvcCBBIDEwMCBSbkIgMQBQb3AgQSAxMDUgQnJpdCBQb3AAUG9wIEEgMTIwIFBvcCAyAFBvcCBCIDA3MCBEb3duYmVhdABQb3AgQiAxMDAgSHlicmlkAFBvcCBCIDEwMCBXb3JsZABQb3AgQiAxMDUgRnVuayAxAFBvcCBCIDExMCBFYXN5IFBvcABQb3AgQiAxMTAgTEEgUG9wAFBvcCBCIDEyMCBDbGFzc2ljIFJuQgBQb3AgQiAxMjAgU2h1ZmZsZSBQb3AAUG9wIEIgMTUwIEZhc3QgUm9jawBSbkIgMDY3IEp1c3QAUm5CIDA3NyBGdW5raXNoIDEAUm5CIDA4MCBSZWFsAFJuQiAwODcgRnVua2lzaCAyAFJuQiAwODkgQmlnIEJlYXQAUm5CIDA5NiBCdXN5AFJuQiAxMDAgSG90AFJuQiAxMDIgRGVlcCAxAFJuQiAxMTIgRGVlcCAyAFJuQiAxMTUgRmFzdABSb2NrIDA2MCBNZXRhbCBCYWxsYWQAUm9jayAwNzUgUm9jayBCYWxsYWQAUm9jayAwOTAgU291dGhlcm4gU3dpbmcAUm9jayAwOTUgQnJpdCBSb2NrAFJvY2sgMDk4IFBvd2VyIFJvY2sAUm9jayAxMTkgRG91YmxlIFRpbWUAUm9jayAxMjAgUG93ZXIgUm9jawBSb2NrIDEyMCBQdW5rAFJvY2sgMTIxIFNodWZmbGUAUm9jayAxMjggMTItOABSb2NrIDEzMCA0IE9uIEZsb29yAFJvY2sgMTMwIEJvdW5jZQBSb2NrIDEzNSBNZXRhbABSb2NrIDE2NSBNb2Rlcm4AUm9jayAxODAgQWx0ZXJuYXRpdmUAVXJiYW4gQSAwNzUgSGlwIEhvcCAxAFVyYmFuIEEgMDg1IEhpcCBIb3AgMgBVcmJhbiBBIDA5NSBFYXN0ZXJuAFVyYmFuIEEgMDk4IFNwYXJzZQBVcmJhbiBBIDEyOCBGYXQgQmVhdABVcmJhbiBBIDE0MCBIaXAgSG9wIDUAVXJiYW4gQiAwNzIgQmlnIEJlYXQAVXJiYW4gQiAwODUgSGlwIEhvcCAzAFVyYmFuIEIgMDg2IFJuQiAxAFVyYmFuIEIgMDg4IEhpcCBIb3AgNABVcmJhbiBCIDA5NSBQZXJrIEJlYXQAVmludGFnZSAwNzAgSGlwIEhvcCA2AFZpbnRhZ2UgMDg5IEJsdWVzIFBvcABWaW50YWdlIDA5MCBGdW5rAFZpbnRhZ2UgMDk1IFJvY2sgRnVuawBWaW50YWdlIDA5OCBHb3NwZWwgU3dpbmcAVmludGFnZSAxMDAgVHJpcGxldCBGdW5rAFZpbnRhZ2UgMTA3IEFjaWQgSmF6egBWaW50YWdlIDEyMCBDbGFzc2ljIFJvY2sAVmludGFnZSAxMjAgU2l4dGllcwBWaW50YWdlIDEzMCBBcnQgUm9jawBWaW50YWdlIDEzNSBJbmRpZSBQb3AAMCYAAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0ludGVuc2l0eRYAAAAXAAAAAAAAPwAAAD8AAAAAAgAAADAlAAQAAC8AAAAvQ2xpZW50L01JRElQcm9jZXNzb3IvUGxheWVyL0N1cnJlbnRQYXR0ZXJuTmFtZQoAAAAHAAAAUGF0dGVybiAxAA==]]></state>
+                <state name="state_{ba05c7f3-07d2-4b86-8148-a404a3bb5d14}-Pop Kit A" type="22" size="2636"><![CDATA[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ciAxAEVsZWN0cmljIDEyMCBNb2Rlcm4gMQBFbGVjdHJpYyAxMjAgTW9kZXJuIDIARWxlY3RyaWMgMTIwIFBvcCAyAEVsZWN0cmljIDEyMCBSb2NrIDEARWxlY3RyaWMgMTIxIFJvY2sgU2h1ZmZsZQBFbGVjdHJpYyAxMzAgRmluZ2VyIDIARWxlY3RyaWMgMTMwIFBpY2sgSGVhdnkAU2xhcCAwOTUgRnVzaW9uAFNsYXAgMDk4IEZ1bmsgMQBTbGFwIDEwMCBGdW5rIDIAU2xhcCAxMDcgRnVuayBSb2NrAFNsYXAgMTEwIEZ1bmsgMwBTbGFwIDEyMCBGdW5rIDQAU3ludGggMDgwIEhpcCBIb3AAU3ludGggMDg4IFVyYmFuIDEAU3ludGggMDkwIFVyYmFuIDEAU3ludGggMDkyIEZ1bmsgMQBTeW50aCAwOTIgRnVuayAyAFN5bnRoIDA5MiBUaHVtYnMgVXAAU3ludGggMDk1IFJhZ2dhIEhvcABTeW50aCAxMDAgVXJiYW4gMgBTeW50aCAxMTAgVXJiYW4gMwBTeW50aCAxMjAgRGFuY2UgMQBTeW50aCAxMjAgUG9wAFN5bnRoIDEyNSBEYW5jZSAxAFN5bnRoIDEzMCBEYW5jZSAyAFN5bnRoIDEzMCBEYW5jZSAzAFN5bnRoIDEzMCBGdW5reQBTeW50aCAxMzAgU3ViAFN5bnRoIDE0MCBEYW5jZSAyAFN5bnRoIDE0MCBVcmJhbiAyAFVwcmlnaHQgMDgwIFVyYmFuIFRyaXBsZXQAVXByaWdodCAwOTAgU3RhbmRhcmQAVXByaWdodCAwOTQgUG9wIDEAVXByaWdodCAxMDAgUG9wIDIAVXByaWdodCAxMjAgQ2xpY2hlAFVwcmlnaHQgMTIwIFVyYmFuAAAmAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9JbnRlbnNpdHkWAAAAFwAAAAAAAD8AAAA/AAAAAAIAAAAwJQAYAAAvAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9DdXJyZW50UGF0dGVybk5hbWUKAAAABwAAAFBhdHRlcm4gMQA=]]></state>
+                <state name="state_Preview-Pick Bass" type="22" size="2636"><![CDATA[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ciAxAEVsZWN0cmljIDEyMCBNb2Rlcm4gMQBFbGVjdHJpYyAxMjAgTW9kZXJuIDIARWxlY3RyaWMgMTIwIFBvcCAyAEVsZWN0cmljIDEyMCBSb2NrIDEARWxlY3RyaWMgMTIxIFJvY2sgU2h1ZmZsZQBFbGVjdHJpYyAxMzAgRmluZ2VyIDIARWxlY3RyaWMgMTMwIFBpY2sgSGVhdnkAU2xhcCAwOTUgRnVzaW9uAFNsYXAgMDk4IEZ1bmsgMQBTbGFwIDEwMCBGdW5rIDIAU2xhcCAxMDcgRnVuayBSb2NrAFNsYXAgMTEwIEZ1bmsgMwBTbGFwIDEyMCBGdW5rIDQAU3ludGggMDgwIEhpcCBIb3AAU3ludGggMDg4IFVyYmFuIDEAU3ludGggMDkwIFVyYmFuIDEAU3ludGggMDkyIEZ1bmsgMQBTeW50aCAwOTIgRnVuayAyAFN5bnRoIDA5MiBUaHVtYnMgVXAAU3ludGggMDk1IFJhZ2dhIEhvcABTeW50aCAxMDAgVXJiYW4gMgBTeW50aCAxMTAgVXJiYW4gMwBTeW50aCAxMjAgRGFuY2UgMQBTeW50aCAxMjAgUG9wAFN5bnRoIDEyNSBEYW5jZSAxAFN5bnRoIDEzMCBEYW5jZSAyAFN5bnRoIDEzMCBEYW5jZSAzAFN5bnRoIDEzMCBGdW5reQBTeW50aCAxMzAgU3ViAFN5bnRoIDE0MCBEYW5jZSAyAFN5bnRoIDE0MCBVcmJhbiAyAFVwcmlnaHQgMDgwIFVyYmFuIFRyaXBsZXQAVXByaWdodCAwOTAgU3RhbmRhcmQAVXByaWdodCAwOTQgUG9wIDEAVXByaWdodCAxMDAgUG9wIDIAVXByaWdodCAxMjAgQ2xpY2hlAFVwcmlnaHQgMTIwIFVyYmFuAAAmAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9JbnRlbnNpdHkWAAAAFwAAAAAAAD8AAAA/AAAAAAIAAAAwJQAYAAAvAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9DdXJyZW50UGF0dGVybk5hbWUKAAAABwAAAFBhdHRlcm4gMQA=]]></state>
+                <state name="state_{85a6a650-5b02-46d6-99db-28974e232ba6}-Pick Bass" type="22" size="2636"><![CDATA[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ciAxAEVsZWN0cmljIDEyMCBNb2Rlcm4gMQBFbGVjdHJpYyAxMjAgTW9kZXJuIDIARWxlY3RyaWMgMTIwIFBvcCAyAEVsZWN0cmljIDEyMCBSb2NrIDEARWxlY3RyaWMgMTIxIFJvY2sgU2h1ZmZsZQBFbGVjdHJpYyAxMzAgRmluZ2VyIDIARWxlY3RyaWMgMTMwIFBpY2sgSGVhdnkAU2xhcCAwOTUgRnVzaW9uAFNsYXAgMDk4IEZ1bmsgMQBTbGFwIDEwMCBGdW5rIDIAU2xhcCAxMDcgRnVuayBSb2NrAFNsYXAgMTEwIEZ1bmsgMwBTbGFwIDEyMCBGdW5rIDQAU3ludGggMDgwIEhpcCBIb3AAU3ludGggMDg4IFVyYmFuIDEAU3ludGggMDkwIFVyYmFuIDEAU3ludGggMDkyIEZ1bmsgMQBTeW50aCAwOTIgRnVuayAyAFN5bnRoIDA5MiBUaHVtYnMgVXAAU3ludGggMDk1IFJhZ2dhIEhvcABTeW50aCAxMDAgVXJiYW4gMgBTeW50aCAxMTAgVXJiYW4gMwBTeW50aCAxMjAgRGFuY2UgMQBTeW50aCAxMjAgUG9wAFN5bnRoIDEyNSBEYW5jZSAxAFN5bnRoIDEzMCBEYW5jZSAyAFN5bnRoIDEzMCBEYW5jZSAzAFN5bnRoIDEzMCBGdW5reQBTeW50aCAxMzAgU3ViAFN5bnRoIDE0MCBEYW5jZSAyAFN5bnRoIDE0MCBVcmJhbiAyAFVwcmlnaHQgMDgwIFVyYmFuIFRyaXBsZXQAVXByaWdodCAwOTAgU3RhbmRhcmQAVXByaWdodCAwOTQgUG9wIDEAVXByaWdodCAxMDAgUG9wIDIAVXByaWdodCAxMjAgQ2xpY2hlAFVwcmlnaHQgMTIwIFVyYmFuAAAmAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9JbnRlbnNpdHkWAAAAFwAAAAAAAD8AAAA/AAAAAAIAAAAwJQAYAAAvAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9DdXJyZW50UGF0dGVybk5hbWUKAAAABwAAAFBhdHRlcm4gMQA=]]></state>
+                <state name="state_Preview-Finger Bass" type="22" size="2636"><![CDATA[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ciAxAEVsZWN0cmljIDEyMCBNb2Rlcm4gMQBFbGVjdHJpYyAxMjAgTW9kZXJuIDIARWxlY3RyaWMgMTIwIFBvcCAyAEVsZWN0cmljIDEyMCBSb2NrIDEARWxlY3RyaWMgMTIxIFJvY2sgU2h1ZmZsZQBFbGVjdHJpYyAxMzAgRmluZ2VyIDIARWxlY3RyaWMgMTMwIFBpY2sgSGVhdnkAU2xhcCAwOTUgRnVzaW9uAFNsYXAgMDk4IEZ1bmsgMQBTbGFwIDEwMCBGdW5rIDIAU2xhcCAxMDcgRnVuayBSb2NrAFNsYXAgMTEwIEZ1bmsgMwBTbGFwIDEyMCBGdW5rIDQAU3ludGggMDgwIEhpcCBIb3AAU3ludGggMDg4IFVyYmFuIDEAU3ludGggMDkwIFVyYmFuIDEAU3ludGggMDkyIEZ1bmsgMQBTeW50aCAwOTIgRnVuayAyAFN5bnRoIDA5MiBUaHVtYnMgVXAAU3ludGggMDk1IFJhZ2dhIEhvcABTeW50aCAxMDAgVXJiYW4gMgBTeW50aCAxMTAgVXJiYW4gMwBTeW50aCAxMjAgRGFuY2UgMQBTeW50aCAxMjAgUG9wAFN5bnRoIDEyNSBEYW5jZSAxAFN5bnRoIDEzMCBEYW5jZSAyAFN5bnRoIDEzMCBEYW5jZSAzAFN5bnRoIDEzMCBGdW5reQBTeW50aCAxMzAgU3ViAFN5bnRoIDE0MCBEYW5jZSAyAFN5bnRoIDE0MCBVcmJhbiAyAFVwcmlnaHQgMDgwIFVyYmFuIFRyaXBsZXQAVXByaWdodCAwOTAgU3RhbmRhcmQAVXByaWdodCAwOTQgUG9wIDEAVXByaWdodCAxMDAgUG9wIDIAVXByaWdodCAxMjAgQ2xpY2hlAFVwcmlnaHQgMTIwIFVyYmFuAAAmAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9JbnRlbnNpdHkWAAAAFwAAAAAAAD8AAAA/AAAAAAIAAAAwJQAXAAAvAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9DdXJyZW50UGF0dGVybk5hbWUKAAAABwAAAFBhdHRlcm4gMQA=]]></state>
+                <state name="state_{85a6a650-5b02-46d6-99db-28974e232ba6}-Finger Bass" type="22" size="2636"><![CDATA[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ciAxAEVsZWN0cmljIDEyMCBNb2Rlcm4gMQBFbGVjdHJpYyAxMjAgTW9kZXJuIDIARWxlY3RyaWMgMTIwIFBvcCAyAEVsZWN0cmljIDEyMCBSb2NrIDEARWxlY3RyaWMgMTIxIFJvY2sgU2h1ZmZsZQBFbGVjdHJpYyAxMzAgRmluZ2VyIDIARWxlY3RyaWMgMTMwIFBpY2sgSGVhdnkAU2xhcCAwOTUgRnVzaW9uAFNsYXAgMDk4IEZ1bmsgMQBTbGFwIDEwMCBGdW5rIDIAU2xhcCAxMDcgRnVuayBSb2NrAFNsYXAgMTEwIEZ1bmsgMwBTbGFwIDEyMCBGdW5rIDQAU3ludGggMDgwIEhpcCBIb3AAU3ludGggMDg4IFVyYmFuIDEAU3ludGggMDkwIFVyYmFuIDEAU3ludGggMDkyIEZ1bmsgMQBTeW50aCAwOTIgRnVuayAyAFN5bnRoIDA5MiBUaHVtYnMgVXAAU3ludGggMDk1IFJhZ2dhIEhvcABTeW50aCAxMDAgVXJiYW4gMgBTeW50aCAxMTAgVXJiYW4gMwBTeW50aCAxMjAgRGFuY2UgMQBTeW50aCAxMjAgUG9wAFN5bnRoIDEyNSBEYW5jZSAxAFN5bnRoIDEzMCBEYW5jZSAyAFN5bnRoIDEzMCBEYW5jZSAzAFN5bnRoIDEzMCBGdW5reQBTeW50aCAxMzAgU3ViAFN5bnRoIDE0MCBEYW5jZSAyAFN5bnRoIDE0MCBVcmJhbiAyAFVwcmlnaHQgMDgwIFVyYmFuIFRyaXBsZXQAVXByaWdodCAwOTAgU3RhbmRhcmQAVXByaWdodCAwOTQgUG9wIDEAVXByaWdodCAxMDAgUG9wIDIAVXByaWdodCAxMjAgQ2xpY2hlAFVwcmlnaHQgMTIwIFVyYmFuAAAmAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9JbnRlbnNpdHkWAAAAFwAAAAAAAD8AAAA/AAAAAAIAAAAwJQAXAAAvAAAAL0NsaWVudC9NSURJUHJvY2Vzc29yL1BsYXllci9DdXJyZW50UGF0dGVybk5hbWUKAAAABwAAAFBhdHRlcm4gMQA=]]></state>
+            </node>
+            <state name="On" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAT2ZmAAAAAAAA2MzGvfd/AABww8a9938AABAAAAAAAABPbgCMBAAAAADgILe9938AAFDyUwAAAAAAAAAAAAAAAFVuYXNzaWduZWQAjAQAAAAAAAAAAAAAAADYzMa9938AABAAAAAAAAAAcMPGvfd/AAABAAAA938AAPCijAQAAAAA]]></state>
+            <state name="Latch" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA2MzGvfd/AAAAAAAAAAAAAA8AAAAAAABPbgCMBAAAAACQWZYEAAAAAFDyUwAAAAAAGAAAAAAAAFVuYXNzaWduZWQAjAQAAAAAAAAAAAAAAADozKW9938AAGj2UwAAAAAAAAAAAAAAAACw5JkEAAAAAFDyUwAAAAAA]]></state>
+            <state name="Processor" type="4" size="58"><![CDATA[AAAAAAAAAAAAAQAAAwAAAAEAAAABAAAAAAAAACgAAAAuAAAANQAAAENob3JkAFBocmFzZQBBcnAAaQ==]]></state>
+            <node name="Player" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAsOSZBAAAAABAaJsEAAAAAIDvUwAAAAAAPhSJvfd/AAAMk5kEAAAAAGCSmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAmgQAAAAAUAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAMgAAAAAAAAAFAAAABAAAAHBWhwQAAAAA]]></state>
+                <state name="Speed" type="4" size="60"><![CDATA[AAAAAAAAAAAAAQAAAwAAAAEAAAABAAAAAAAAACgAAAAtAAAANAAAAEhhbGYATm9ybWFsAERvdWJsZQAA]]></state>
+                <state name="Humanize" type="23" size="22"><![CDATA[AAAAAAAAAAAAAAAAAgAAADAlAGcAAA==]]></state>
+                <state name="Intensity" type="23" size="22"><![CDATA[AAAAPwAAAD8AAAAAAgAAADAlABAAAA==]]></state>
+                <state name="VelocityResponse" type="4" size="44"><![CDATA[/////wAAAAAAAQAAAgAAAAEAAAABAAAAAAAAACQAAAAoAAAAT2ZmAE9uAAA=]]></state>
+                <state name="Category" type="4" size="152"><![CDATA[/////wAAAAAAAQAACgAAAAAAAAAFAAAAAAAAAEQAAABLAAAAUQAAAFcAAABfAAAAZAAAAHcAAAB/AAAAhgAAAI0AAABCYXNzZXMAQnJhc3MARHJ1bXMAR3VpdGFycwBLZXlzAFBpdGNoZWQgUGVyY3Vzc2lvbgBTdHJpbmdzAFN5bnRocwBWb2ljZXMAV29vZHdpbmRzAAA=]]></state>
+                <state name="Patterns" type="4" size="130"><![CDATA[AAAAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAACwAAAA+AAAAUwAAAGcAAABNYXJpbWJhIDEwMCBXb3JsZABWaWJyYXBob25lIDA4MCBDaGlsbABWaWJyYXBob25lIDA4NyBNb29kAFZpYnJhcGhvbmUgMTAwIEphenogU3dpbmcAAA==]]></state>
+                <state name="ScaleCorrection" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAASO1TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAwl5oEAAAAAJSNjXMAAAAAJQAAAAAAAFVuYXNzaWduZWQApAQAAAAAKQAAAAAAAADozKW9938AAIDvUwAAAAAAAAAAAAAAAADgHksEAAAAAEDrUwAAAAAA]]></state>
+            </node>
+        </node>
+        <node name="MIDIRecorder" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAANBdWgQAAAAAYDldBAAAAADg0qQEAAAAAOD0UwAAAAAAPhSJvfd/AACMuJkEAAAAAOC3mQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAlwQAAAAAAOWZBAAAAAAAAAAAAAAAAA8AAAAAAAAA4PRTAAAAAAAFAAAABAAAAMBYhwQAAAAA]]></state>
+            <state name="QuantizeGrid" type="4" size="126"><![CDATA[AAAAAAAAAAAAAQAACAAAAAIAAAACAAAAAAAAADwAAABAAAAARAAAAEkAAABOAAAAWAAAAGQAAABwAAAAMS80ADEvOAAxLzE2ADEvMzIAU0VQQVJBVE9SADEvNCBUcmlwbGV0ADEvOCBUcmlwbGV0ADEvMTYgVHJpcGxldAA2]]></state>
+            <state name="Quantize" type="1" size="144"><![CDATA[BQAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAA0F1aBAAAAAAAAAAAAAAAAPAaZAQAAABPbgBTAAAAAACA1EYEAAAAAAUAAAAAAAAA4NKkBAAAAFVuYXNzaWduZWQAZAQAAAAAAAAAAAAAAADwipoEAAAAAAUAAAAAAAAAABtkBAAAAACjTRV0AAAAAPAaZAQAAAAA]]></state>
+            <state name="QuantizeLengths" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/T2ZmAAQAAAAA0F1aBAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAACgcJYEAAAAAAUAAAAAAAAAHQAAAAAAAFVuYXNzaWduZWQAZAQAAAAAAAAAAAAAAACA1EYEAAAAAOjMpb33fwAAAAAAAAAAAADg0qQEAAAAACDwUwAAAAAA]]></state>
+            <state name="NeedMetronom" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA2O5TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAAAwlpoEAAAAAOjMpb33fwAAIAAAAAAAAFVuYXNzaWduZWQApAQAAAAAXqOJvfd/AACA1EYEAAAAAOjMpb33fwAAAAAAAAAAAADg0qQEAAAAACDwUwAAAAAA]]></state>
+            <state name="ShowWaitForNote" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAD/T2ZmAAQAAAAA2O5TAAAAAAAAAAAAAAAAAA8AAAAAAABPbgBTAAAAAADwipoEAAAAAOjMpb33fwAAIQAAAAAAAFVuYXNzaWduZWQApAQAAAAAXqOJvfd/AACA1EYEAAAAAOjMpb33fwAAAAAAAAAAAADg0qQEAAAAACDwUwAAAAAA]]></state>
+        </node>
+        <node name="BounceController" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAANBdWgQAAAAAAQAAAAAAAAAwpowEAAAAADDzUwAAAAAAPhSJvfd/AADcpJkEAAAAADCkmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAmgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAMPNTAAAAAAAFAAAABAAAAHBYhwQAAAAA]]></state>
+            <state name="ProgressText" type="7" size="1"><![CDATA[AA==]]></state>
+            <state name="FileType" type="7" size="4"><![CDATA[d2F2AA==]]></state>
+            <state name="OutputFileName" type="7" size="1"><![CDATA[AA==]]></state>
+            <state name="QualityLevelWav" type="4" size="75"><![CDATA[AAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAACQAAAA4AAAAV0FWIDQ0LjEga0h6IDE2IGJpdABXQVYgNDgga0h6IDI0IGJpdABy]]></state>
+            <state name="QualityLevelMp3" type="4" size="141"><![CDATA[AAAAAAAAAAAAAQAACAAAAAQAAAAEAAAAAAAAADwAAABGAAAAUAAAAFoAAABkAAAAbgAAAHgAAACCAAAAMTE1IGticC9zADEzMCBrYnAvcwAxNjUga2JwL3MAMTc1IGticC9zADE5MCBrYnAvcwAyMjUga2JwL3MAMjQ1IGticC9zADMyMCBrYnAvcwBz]]></state>
+        </node>
+        <node name="MidiExportController" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAKBbWgQAAAAAYGlZBAAAAADw63wEAAAAAKjyUwAAAAAAPhSJvfd/AAA8gZkEAAAAAJCAmQQAAAAAAAAAAAAAAFVuYXNzaWduZWQAmgQAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAqPJTAAAAAAAFAAAABAAAAJBahwQAAAAA]]></state>
+        </node>
+        <node name="GUI" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAACrWAQAAAAABAAAAAAAAACQj5UGAAAAAMD1UwAAAAAAPhSJvfd/AACsbXYGAAAAAABtdgYAAAAAAAAAAAAAAFVuYXNzaWduZWQAqwYAAAAAYI+VBgAAAAAAAAAAAAAAAA8AAAAAAAAAwPVTAAAAAAAFAAAABAAAADBKQAYAAAAA]]></state>
+            <node name="Scripted" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAACrWAQAAAAABAAAAAAAAACwuZcGAAAAABD2UwAAAAAAPhSJvfd/AADMTXYGAAAAACBNdgYAAAAAAAAAAAAAAFVuYXNzaWduZWQAqwYAAAAAYOKIBgAAAAAAAAAAAAAAAA8AAAAAAAAAEPZTAAAAAAAFAAAABAAAALBIQAYAAAAA]]></state>
+            </node>
+            <node name="Browser" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAkF6OBgAAAADgXY4GAAAAAIjzUwAAAAAAPhSJvfd/AADMPnYGAAAAACA+dgYAAAAAAAAAAAAAAFVuYXNzaWduZWQAqwYAAAAAAAAVAgAAAAAAAAAAAAAAAA8AAAAAAAAAiPNTAAAAAAAFAAAABAAAAEBKQAYAAAAA]]></state>
+            </node>
+            <node name="FxBrowser" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAGBpWQQAAAAAwF+OBgAAAAAQX44GAAAAAIjzUwAAAAAAPhSJvfd/AAB8UnYGAAAAANBRdgYAAAAAAAAAAAAAAFVuYXNzaWduZWQAqwYAAAAAAAAVAgAAAAAAAAAAAAAAAA8AAAAAAAAAiPNTAAAAAAAFAAAABAAAAPBLQAYAAAAA]]></state>
+            </node>
+            <node name="ShortcutController" type="Node">
+                <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAJCPlQYAAAAAoBebBgAAAADwFpsGAAAAAFjzUwAAAAAAPhSJvfd/AABMRnYGAAAAAKBFdgYAAAAAAAAAAAAAAFVuYXNzaWduZWQARAYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAWPNTAAAAAAAFAAAABAAAADBPQAYAAAAA]]></state>
+            </node>
+            <state name="PianoRollToolMode" type="9" size="12"><![CDATA[AQAAAAAAAID///9/]]></state>
+            <state name="CurrentFocusArea" type="7" size="1"><![CDATA[AA==]]></state>
+            <state name="FromGUI" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAT2ZmAHMAAAAAAAAAAAAAAAAAAAAAAAAAAIDkRAYAAABPbgCbBgAAAAAAAAAAAAAAAEzKiL33fwAAYO5TAAAAAFVuYXNzaWduZWQAp733fwAA0I12BgAAAAD+/////////xSPib33fwAA/v////////8A5EQGAAAAALDypwYAAAAA]]></state>
+            <state name="AutomaticGapsClosing" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQD/T2ZmAAYAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAABPbgCbBgAAAAD48FMAAAAAAKSgVb33fwAAEwAAAAAAAFVuYXNzaWduZWQAp733fwAA0I12BgAAAAD+/////////2CPlQYAAAAAsPKnBgAAAABgj5UGAAAAAKDvUwAAAAAA]]></state>
+            <state name="AutomaticDrumPadMapping" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQAAT2ZmAHMAAAAAAAAAAAAAAAAAAAAAAAAAAIDkRAYAAABPbgCbBgAAAABI8VMAAAAAAKSgVb33fwAAYO5TAAAAAFVuYXNzaWduZWQApb33fwAA0I12BgAAAAD+/////////2CPlQYAAAAA/v////////8A5EQGAAAAACARmwYAAAAA]]></state>
+        </node>
+        <node name="AutoUpdate" type="Node">
+            <state name="IsCloning" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAAAAAPCijAQAAAAAAAAAAAAAAAAwEZsGAAAAABD0UwAAAAAAPhSJvfd/AAAMaHYGAAAAAGBndgYAAAAAAAAAAAAAAFVuYXNzaWduZWQAqwYAAAAAOPNTAAAAAAAAAAAAAAAAAA8AAAAAAAAAEPRTAAAAAAAFAAAABAAAAGBLQAYAAAAA]]></state>
+            <state name="LastChecked" type="7" size="6"><![CDATA[TmV2ZXIA]]></state>
+            <state name="AutoCheckForUpdates" type="1" size="144"><![CDATA[AAAAAAAAAAAAAQEAAQH/Tm8AUwAAAAAA4GqrBgAAAABV6SR0AAAAAAAAAAAAAABZZXMAvfd/AAAAAAAAAAAAAAAAAAAAAAAA4GqrBgAAAFVuYXNzaWduZWQA////////0+eOvfd/AABY71MAAAAAAAEAAAD/////0BuXBgAAAAAg9YgGAAAAAIDwUwAAAAAA]]></state>
+        </node>
+    </subset>
+</StateXML>
