@@ -10,6 +10,6 @@ How to install:
 
 How to Play:
 
-Try to escape from big wave using following keys: w a s d
+Try to escape from big wave using left, right, up and down arrows
 
 Have Fun :)
