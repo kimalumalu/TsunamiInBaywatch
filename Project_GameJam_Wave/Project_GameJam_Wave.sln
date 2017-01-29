@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6F2742C3-CF15-E91A-6ED8-474D78525540}") = "Project_GameJam_Wave", "Assembly-CSharp.csproj", "{1B6901DF-3FE4-139A-191E-E1CDF03109F6}"
+EndProject
+Project("{6F2742C3-CF15-E91A-6ED8-474D78525540}") = "Project_GameJam_Wave", "Assembly-CSharp-Editor.csproj", "{F855E25A-6448-07AD-AD98-6351F27DD738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6901DF-3FE4-139A-191E-E1CDF03109F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6901DF-3FE4-139A-191E-E1CDF03109F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6901DF-3FE4-139A-191E-E1CDF03109F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6901DF-3FE4-139A-191E-E1CDF03109F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F855E25A-6448-07AD-AD98-6351F27DD738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F855E25A-6448-07AD-AD98-6351F27DD738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F855E25A-6448-07AD-AD98-6351F27DD738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F855E25A-6448-07AD-AD98-6351F27DD738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
