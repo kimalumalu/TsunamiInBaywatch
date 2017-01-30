@@ -3,9 +3,9 @@ A game project realised in game jam session 2017
 
 How to use source code in unity:
 
-- clone game project per git : git clone https://github.com/kimalumalu/TsunamiInBaywatch/Project_WavEscape
+- clone game project per git : git clone https://github.com/kimalumalu/TsunamiInBaywatch
 - Download Statisten Folder: https://www.dropbox.com/sh/0i15i4xka0ps3lg/AAAAt0-H2hSiCu3MWERO3d2ha?dl=0
-- Insert Statisten folder into project game folder under: <PATH-TO-GIT-CHECKOUT>/Assets/Statisten
+- Insert Statisten folder into project game folder under: <PATH-TO-GIT-CHECKOUT>/Project_WavEscape/Assets/Statisten
 - start unity game engine with prepared project folder
 
 How to install and run:
